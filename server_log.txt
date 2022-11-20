@@ -1,0 +1,5039 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:54:06] 
+[20:54:06] Server Plugins
+[20:54:06] --------------
+[20:54:06]  Loading plugin: sscanf
+[20:54:06] 
+
+[20:54:06]  ===============================
+
+[20:54:06]       sscanf plugin loaded.     
+
+[20:54:06]    (c) 2009 Alex "Y_Less" Cole
+
+[20:54:06]    0.3d-R2 500 Players "dnee"
+
+[20:54:06]  ===============================
+
+[20:54:06]   Loaded.
+[20:54:06]  Loading plugin: TDE
+[20:54:06] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:54:06]   Loaded.
+[20:54:06]  Loaded 2 plugins.
+
+[20:54:06] 
+[20:54:06] Filterscripts
+[20:54:06] ---------------
+[20:54:06]   Loading filterscript 'TDE.amx'...
+[20:54:06]  
+[20:54:06]  
+[20:54:06]  
+[20:54:06]  
+[20:54:06] ___ __  __
+[20:54:06]  | |  \|_  _|.|_ _  _		
+[20:54:06]  | |__/|__(_|||_(_)|			
+[20:54:06]  
+[20:54:06] TDEditor V1.17 by adri1
+[20:54:06] TDEditor loaded
+[20:54:06]  
+[20:54:06]   Loaded 1 filterscripts.
+
+[20:54:06] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:54:06] 
+----------------------------------
+[20:54:06]   Bare Script
+
+[20:54:06] ----------------------------------
+
+[20:54:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:55:42] 
+[20:55:42] Server Plugins
+[20:55:42] --------------
+[20:55:42]  Loading plugin: sscanf
+[20:55:42] 
+
+[20:55:42]  ===============================
+
+[20:55:42]       sscanf plugin loaded.     
+
+[20:55:42]    (c) 2009 Alex "Y_Less" Cole
+
+[20:55:42]    0.3d-R2 500 Players "dnee"
+
+[20:55:42]  ===============================
+
+[20:55:42]   Loaded.
+[20:55:42]  Loading plugin: TDE
+[20:55:42] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:55:42]   Loaded.
+[20:55:42]  Loaded 2 plugins.
+
+[20:55:42] 
+[20:55:42] Filterscripts
+[20:55:42] ---------------
+[20:55:42]   Loading filterscript 'TDE.amx'...
+[20:55:42]  
+[20:55:42]  
+[20:55:42]  
+[20:55:42]  
+[20:55:42] ___ __  __
+[20:55:42]  | |  \|_  _|.|_ _  _		
+[20:55:42]  | |__/|__(_|||_(_)|			
+[20:55:42]  
+[20:55:42] TDEditor V1.17 by adri1
+[20:55:42] TDEditor loaded
+[20:55:42]  
+[20:55:42]   Loaded 1 filterscripts.
+
+[20:55:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:55:42] 
+----------------------------------
+[20:55:42]   Bare Script
+
+[20:55:42] ----------------------------------
+
+[20:55:42] Number of vehicle models: 0
+[20:55:44] [connection] 192.168.1.101:55275 requests connection cookie.
+[20:55:45] [connection] incoming connection: 192.168.1.101:55275 id: 0
+[20:55:45] [join] 2Pac._ has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:34:47] 
+[21:34:47] Server Plugins
+[21:34:47] --------------
+[21:34:47]  Loading plugin: sscanf
+[21:34:47] 
+
+[21:34:47]  ===============================
+
+[21:34:47]       sscanf plugin loaded.     
+
+[21:34:47]    (c) 2009 Alex "Y_Less" Cole
+
+[21:34:47]    0.3d-R2 500 Players "dnee"
+
+[21:34:47]  ===============================
+
+[21:34:47]   Loaded.
+[21:34:47]  Loading plugin: TDE
+[21:34:47] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:34:47]   Loaded.
+[21:34:47]  Loading plugin: carro
+[21:34:47]   Failed.
+[21:34:47]  Loaded 2 plugins.
+
+[21:34:47] 
+[21:34:47] Filterscripts
+[21:34:47] ---------------
+[21:34:47]   Loading filterscript 'TDE.amx'...
+[21:34:48]  
+[21:34:48]  
+[21:34:48]  
+[21:34:48]  
+[21:34:48] ___ __  __
+[21:34:48]  | |  \|_  _|.|_ _  _		
+[21:34:48]  | |__/|__(_|||_(_)|			
+[21:34:48]  
+[21:34:48] TDEditor V1.17 by adri1
+[21:34:48] TDEditor loaded
+[21:34:48]  
+[21:34:48]   Loaded 1 filterscripts.
+
+[21:34:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:34:48] 
+----------------------------------
+[21:34:48]   Bare Script
+
+[21:34:48] ----------------------------------
+
+[21:34:48] Number of vehicle models: 0
+[21:34:48] [connection] 192.168.1.101:55699 requests connection cookie.
+[21:34:49] [connection] incoming connection: 192.168.1.101:55699 id: 0
+[21:34:50] [join] 2Pac._ has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:48:39] 
+[21:48:39] Server Plugins
+[21:48:39] --------------
+[21:48:39]  Loading plugin: sscanf
+[21:48:39] 
+
+[21:48:39]  ===============================
+
+[21:48:39]       sscanf plugin loaded.     
+
+[21:48:39]    (c) 2009 Alex "Y_Less" Cole
+
+[21:48:39]    0.3d-R2 500 Players "dnee"
+
+[21:48:39]  ===============================
+
+[21:48:39]   Loaded.
+[21:48:39]  Loading plugin: TDE
+[21:48:39] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:48:39]   Loaded.
+[21:48:39]  Loaded 2 plugins.
+
+[21:48:39] 
+[21:48:39] Filterscripts
+[21:48:39] ---------------
+[21:48:39]   Loading filterscript 'TDE.amx'...
+[21:48:39]  
+[21:48:39]  
+[21:48:39]  
+[21:48:39]  
+[21:48:39] ___ __  __
+[21:48:39]  | |  \|_  _|.|_ _  _		
+[21:48:39]  | |__/|__(_|||_(_)|			
+[21:48:39]  
+[21:48:39] TDEditor V1.17 by adri1
+[21:48:39] TDEditor loaded
+[21:48:39]  
+[21:48:39]   Loaded 1 filterscripts.
+
+[21:48:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:48:39] 
+----------------------------------
+[21:48:39]   Bare Script
+
+[21:48:39] ----------------------------------
+
+[21:48:39] Number of vehicle models: 0
+[21:53:10] [connection] 192.168.1.101:55944 requests connection cookie.
+[21:53:11] [connection] incoming connection: 192.168.1.101:55944 id: 0
+[21:53:11] [join] 2Pac._ has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:11:07] 
+[22:11:07] Server Plugins
+[22:11:07] --------------
+[22:11:07]  Loading plugin: sscanf
+[22:11:07] 
+
+[22:11:07]  ===============================
+
+[22:11:07]       sscanf plugin loaded.     
+
+[22:11:07]    (c) 2009 Alex "Y_Less" Cole
+
+[22:11:07]    0.3d-R2 500 Players "dnee"
+
+[22:11:07]  ===============================
+
+[22:11:07]   Loaded.
+[22:11:07]  Loading plugin: TDE
+[22:11:07] 
+TDEditor Plugin loaded, thank you for using.
+
+[22:11:07]   Loaded.
+[22:11:07]  Loaded 2 plugins.
+
+[22:11:07] 
+[22:11:07] Filterscripts
+[22:11:07] ---------------
+[22:11:07]   Loading filterscript 'TDE.amx'...
+[22:11:07]  
+[22:11:07]  
+[22:11:07]  
+[22:11:07]  
+[22:11:07] ___ __  __
+[22:11:07]  | |  \|_  _|.|_ _  _		
+[22:11:07]  | |__/|__(_|||_(_)|			
+[22:11:07]  
+[22:11:07] TDEditor V1.17 by adri1
+[22:11:07] TDEditor loaded
+[22:11:07]  
+[22:11:07]   Loaded 1 filterscripts.
+
+[22:11:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:11:07] 
+----------------------------------
+[22:11:07]   Bare Script
+
+[22:11:07] ----------------------------------
+
+[22:11:07] Number of vehicle models: 0
+[22:12:13] [connection] 192.168.1.101:61835 requests connection cookie.
+[22:12:14] [connection] incoming connection: 192.168.1.101:61835 id: 0
+[22:12:14] [join] 2Pac._ has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:47:47] 
+[00:47:47] Server Plugins
+[00:47:47] --------------
+[00:47:47]  Loading plugin: sscanf
+[00:47:47] 
+
+[00:47:47]  ===============================
+
+[00:47:47]       sscanf plugin loaded.     
+
+[00:47:47]    (c) 2009 Alex "Y_Less" Cole
+
+[00:47:47]    0.3d-R2 500 Players "dnee"
+
+[00:47:47]  ===============================
+
+[00:47:47]   Loaded.
+[00:47:47]  Loading plugin: TDE
+[00:47:47] 
+TDEditor Plugin loaded, thank you for using.
+
+[00:47:47]   Loaded.
+[00:47:47]  Loaded 2 plugins.
+
+[00:47:47] 
+[00:47:47] Filterscripts
+[00:47:47] ---------------
+[00:47:47]   Loading filterscript 'TDE.amx'...
+[00:47:47]  
+[00:47:47]  
+[00:47:47]  
+[00:47:47]  
+[00:47:47] ___ __  __
+[00:47:47]  | |  \|_  _|.|_ _  _		
+[00:47:47]  | |__/|__(_|||_(_)|			
+[00:47:47]  
+[00:47:47] TDEditor V1.17 by adri1
+[00:47:47] TDEditor loaded
+[00:47:47]  
+[00:47:47]   Loaded 1 filterscripts.
+
+[00:47:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:47:47] 
+----------------------------------
+[00:47:47]   Bare Script
+
+[00:47:47] ----------------------------------
+
+[00:47:47] Number of vehicle models: 0
+[00:48:35] [connection] 192.168.1.101:49249 requests connection cookie.
+[00:48:36] [connection] incoming connection: 192.168.1.101:49249 id: 0
+[00:48:36] [join] VipeX has joined the server (0:192.168.1.101)
+[01:27:30] [part] VipeX has left the server (0:1)
+[01:27:36] --- Server Shutting Down.
+[01:27:36]  
+[01:27:36]  
+[01:27:36]  
+[01:27:36]  
+[01:27:36] ___ __  __
+[01:27:36]  | |  \|_  _|.|_ _  _		
+[01:27:36]  | |__/|__(_|||_(_)|			
+[01:27:36]  
+[01:27:36] TDEditor V1.17 by adri1
+[01:27:36] TDEditor unloaded
+[01:27:36]  
+[01:27:36] 
+
+[01:27:36]  ===============================
+
+[01:27:36]      sscanf plugin unloaded.    
+
+[01:27:36]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:43:44] 
+[23:43:44] Server Plugins
+[23:43:44] --------------
+[23:43:44]  Loading plugin: sscanf
+[23:43:44] 
+
+[23:43:44]  ===============================
+
+[23:43:44]       sscanf plugin loaded.     
+
+[23:43:44]    (c) 2009 Alex "Y_Less" Cole
+
+[23:43:44]    0.3d-R2 500 Players "dnee"
+
+[23:43:44]  ===============================
+
+[23:43:44]   Loaded.
+[23:43:44]  Loading plugin: TDE
+[23:43:44] 
+TDEditor Plugin loaded, thank you for using.
+
+[23:43:44]   Loaded.
+[23:43:44]  Loaded 2 plugins.
+
+[23:43:44] 
+[23:43:44] Filterscripts
+[23:43:44] ---------------
+[23:43:44]   Loading filterscript 'TDE.amx'...
+[23:43:45]  
+[23:43:45]  
+[23:43:45]  
+[23:43:45]  
+[23:43:45] ___ __  __
+[23:43:45]  | |  \|_  _|.|_ _  _		
+[23:43:45]  | |__/|__(_|||_(_)|			
+[23:43:45]  
+[23:43:45] TDEditor V1.17 by adri1
+[23:43:45] TDEditor loaded
+[23:43:45]  
+[23:43:45]   Loaded 1 filterscripts.
+
+[23:43:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:43:45] 
+----------------------------------
+[23:43:45]   Bare Script
+
+[23:43:45] ----------------------------------
+
+[23:43:45] Number of vehicle models: 0
+[23:43:53] [connection] 192.168.1.101:56878 requests connection cookie.
+[23:43:54] [connection] incoming connection: 192.168.1.101:56878 id: 0
+[23:43:54] [join] SantoS has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:41:00] 
+[01:41:00] Server Plugins
+[01:41:00] --------------
+[01:41:00]  Loading plugin: sscanf
+[01:41:00] 
+
+[01:41:00]  ===============================
+
+[01:41:00]       sscanf plugin loaded.     
+
+[01:41:00]    (c) 2009 Alex "Y_Less" Cole
+
+[01:41:00]    0.3d-R2 500 Players "dnee"
+
+[01:41:00]  ===============================
+
+[01:41:00]   Loaded.
+[01:41:00]  Loading plugin: TDE
+[01:41:00] 
+TDEditor Plugin loaded, thank you for using.
+
+[01:41:00]   Loaded.
+[01:41:00]  Loaded 2 plugins.
+
+[01:41:00] 
+[01:41:00] Filterscripts
+[01:41:00] ---------------
+[01:41:00]   Loading filterscript 'TDE.amx'...
+[01:41:00]  
+[01:41:00]  
+[01:41:00]  
+[01:41:00]  
+[01:41:00] ___ __  __
+[01:41:00]  | |  \|_  _|.|_ _  _		
+[01:41:00]  | |__/|__(_|||_(_)|			
+[01:41:00]  
+[01:41:00] TDEditor V1.17 by adri1
+[01:41:00] TDEditor loaded
+[01:41:00]  
+[01:41:00]   Loaded 1 filterscripts.
+
+[01:41:00] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[01:41:00] 
+----------------------------------
+[01:41:00]   Bare Script
+
+[01:41:00] ----------------------------------
+
+[01:41:00] Number of vehicle models: 0
+[01:41:02] [connection] 192.168.1.101:65418 requests connection cookie.
+[01:41:03] [connection] incoming connection: 192.168.1.101:65418 id: 0
+[01:41:04] [join] Leonardo has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[02:37:34] 
+[02:37:34] Server Plugins
+[02:37:34] --------------
+[02:37:34]  Loading plugin: sscanf
+[02:37:34] 
+
+[02:37:34]  ===============================
+
+[02:37:34]       sscanf plugin loaded.     
+
+[02:37:34]    (c) 2009 Alex "Y_Less" Cole
+
+[02:37:34]    0.3d-R2 500 Players "dnee"
+
+[02:37:34]  ===============================
+
+[02:37:34]   Loaded.
+[02:37:34]  Loading plugin: TDE
+[02:37:34] 
+TDEditor Plugin loaded, thank you for using.
+
+[02:37:34]   Loaded.
+[02:37:34]  Loaded 2 plugins.
+
+[02:37:34] 
+[02:37:34] Filterscripts
+[02:37:34] ---------------
+[02:37:34]   Loading filterscript 'TDE.amx'...
+[02:37:34]  
+[02:37:34]  
+[02:37:34]  
+[02:37:34]  
+[02:37:34] ___ __  __
+[02:37:34]  | |  \|_  _|.|_ _  _		
+[02:37:34]  | |__/|__(_|||_(_)|			
+[02:37:34]  
+[02:37:34] TDEditor V1.17 by adri1
+[02:37:34] TDEditor loaded
+[02:37:34]  
+[02:37:34]   Loaded 1 filterscripts.
+
+[02:37:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[02:37:34] 
+----------------------------------
+[02:37:34]   Bare Script
+
+[02:37:34] ----------------------------------
+
+[02:37:34] Number of vehicle models: 0
+[02:39:34] [connection] 192.168.1.101:58262 requests connection cookie.
+[02:39:35] [connection] incoming connection: 192.168.1.101:58262 id: 0
+[02:39:35] [join] Leonardo has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:38:25] 
+[16:38:25] Server Plugins
+[16:38:25] --------------
+[16:38:25]  Loading plugin: sscanf
+[16:38:25] 
+
+[16:38:25]  ===============================
+
+[16:38:25]       sscanf plugin loaded.     
+
+[16:38:25]    (c) 2009 Alex "Y_Less" Cole
+
+[16:38:25]    0.3d-R2 500 Players "dnee"
+
+[16:38:25]  ===============================
+
+[16:38:25]   Loaded.
+[16:38:25]  Loading plugin: TDE
+[16:38:25] 
+TDEditor Plugin loaded, thank you for using.
+
+[16:38:25]   Loaded.
+[16:38:25]  Loaded 2 plugins.
+
+[16:38:25] 
+[16:38:25] Filterscripts
+[16:38:25] ---------------
+[16:38:25]   Loading filterscript 'TDE.amx'...
+[16:38:25]  
+[16:38:25]  
+[16:38:25]  
+[16:38:25]  
+[16:38:25] ___ __  __
+[16:38:25]  | |  \|_  _|.|_ _  _		
+[16:38:25]  | |__/|__(_|||_(_)|			
+[16:38:25]  
+[16:38:25] TDEditor V1.17 by adri1
+[16:38:25] TDEditor loaded
+[16:38:25]  
+[16:38:25]   Loaded 1 filterscripts.
+
+[16:38:25] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:38:25] 
+----------------------------------
+[16:38:25]   Bare Script
+
+[16:38:25] ----------------------------------
+
+[16:38:25] Number of vehicle models: 0
+[16:38:29] [connection] 192.168.1.101:57653 requests connection cookie.
+[16:38:30] [connection] incoming connection: 192.168.1.101:57653 id: 0
+[16:38:30] [join] Tiago has joined the server (0:192.168.1.101)
+[17:03:55] [part] Tiago has left the server (0:1)
+[17:03:58] --- Server Shutting Down.
+[17:03:58]  
+[17:03:58]  
+[17:03:58]  
+[17:03:58]  
+[17:03:58] ___ __  __
+[17:03:58]  | |  \|_  _|.|_ _  _		
+[17:03:58]  | |__/|__(_|||_(_)|			
+[17:03:58]  
+[17:03:58] TDEditor V1.17 by adri1
+[17:03:58] TDEditor unloaded
+[17:03:58]  
+[17:03:58] 
+
+[17:03:58]  ===============================
+
+[17:03:58]      sscanf plugin unloaded.    
+
+[17:03:58]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:51:15] 
+[18:51:15] Server Plugins
+[18:51:15] --------------
+[18:51:15]  Loading plugin: sscanf
+[18:51:15] 
+
+[18:51:15]  ===============================
+
+[18:51:15]       sscanf plugin loaded.     
+
+[18:51:15]    (c) 2009 Alex "Y_Less" Cole
+
+[18:51:15]    0.3d-R2 500 Players "dnee"
+
+[18:51:15]  ===============================
+
+[18:51:15]   Loaded.
+[18:51:15]  Loading plugin: TDE
+[18:51:15] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:51:15]   Loaded.
+[18:51:15]  Loaded 2 plugins.
+
+[18:51:15] 
+[18:51:15] Filterscripts
+[18:51:15] ---------------
+[18:51:15]   Loading filterscript 'TDE.amx'...
+[18:51:15]  
+[18:51:15]  
+[18:51:15]  
+[18:51:15]  
+[18:51:15] ___ __  __
+[18:51:15]  | |  \|_  _|.|_ _  _		
+[18:51:15]  | |__/|__(_|||_(_)|			
+[18:51:15]  
+[18:51:15] TDEditor V1.17 by adri1
+[18:51:15] TDEditor loaded
+[18:51:15]  
+[18:51:15]   Loaded 1 filterscripts.
+
+[18:51:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:51:15] 
+----------------------------------
+[18:51:15]   Bare Script
+
+[18:51:15] ----------------------------------
+
+[18:51:15] Number of vehicle models: 0
+[18:51:18] [connection] 192.168.1.101:65120 requests connection cookie.
+[18:51:19] [connection] incoming connection: 192.168.1.101:65120 id: 0
+[18:51:19] [join] Tiago has joined the server (0:192.168.1.101)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:47:46] 
+[11:47:46] Server Plugins
+[11:47:46] --------------
+[11:47:46]  Loading plugin: sscanf
+[11:47:46] 
+
+[11:47:46]  ===============================
+
+[11:47:46]       sscanf plugin loaded.     
+
+[11:47:46]    (c) 2009 Alex "Y_Less" Cole
+
+[11:47:46]    0.3d-R2 500 Players "dnee"
+
+[11:47:46]  ===============================
+
+[11:47:46]   Loaded.
+[11:47:46]  Loading plugin: TDE
+[11:47:46] 
+TDEditor Plugin loaded, thank you for using.
+
+[11:47:46]   Loaded.
+[11:47:46]  Loaded 2 plugins.
+
+[11:47:46] 
+[11:47:46] Filterscripts
+[11:47:46] ---------------
+[11:47:46]   Loading filterscript 'TDE.amx'...
+[11:47:46]  
+[11:47:46]  
+[11:47:46]  
+[11:47:46]  
+[11:47:46] ___ __  __
+[11:47:46]  | |  \|_  _|.|_ _  _		
+[11:47:46]  | |__/|__(_|||_(_)|			
+[11:47:46]  
+[11:47:46] TDEditor V1.17 by adri1
+[11:47:46] TDEditor loaded
+[11:47:46]  
+[11:47:46]   Loaded 1 filterscripts.
+
+[11:47:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:47:46] 
+----------------------------------
+[11:47:46]   Bare Script
+
+[11:47:46] ----------------------------------
+
+[11:47:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:32] 
+[15:44:32] Server Plugins
+[15:44:32] --------------
+[15:44:32]  Loading plugin: sscanf
+[15:44:32] 
+
+[15:44:32]  ===============================
+
+[15:44:32]       sscanf plugin loaded.     
+
+[15:44:32]    (c) 2009 Alex "Y_Less" Cole
+
+[15:44:32]    0.3d-R2 500 Players "dnee"
+
+[15:44:32]  ===============================
+
+[15:44:32]   Loaded.
+[15:44:32]  Loading plugin: TDE
+[15:44:32] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:44:32]   Loaded.
+[15:44:32]  Loaded 2 plugins.
+
+[15:44:32] 
+[15:44:32] Filterscripts
+[15:44:32] ---------------
+[15:44:32]   Loading filterscript 'TDE.amx'...
+[15:44:32]  
+[15:44:32]  
+[15:44:32]  
+[15:44:32]  
+[15:44:32] ___ __  __
+[15:44:32]  | |  \|_  _|.|_ _  _		
+[15:44:32]  | |__/|__(_|||_(_)|			
+[15:44:32]  
+[15:44:32] TDEditor V1.17 by adri1
+[15:44:32] TDEditor loaded
+[15:44:32]  
+[15:44:32]   Loaded 1 filterscripts.
+
+[15:44:32] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:44:32] 
+----------------------------------
+[15:44:32]   Bare Script
+
+[15:44:32] ----------------------------------
+
+[15:44:32] Number of vehicle models: 0
+[15:44:59] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:48] 
+[15:45:48] Server Plugins
+[15:45:48] --------------
+[15:45:48]  Loading plugin: sscanf
+[15:45:48] 
+
+[15:45:48]  ===============================
+
+[15:45:48]       sscanf plugin loaded.     
+
+[15:45:48]    (c) 2009 Alex "Y_Less" Cole
+
+[15:45:48]    0.3d-R2 500 Players "dnee"
+
+[15:45:48]  ===============================
+
+[15:45:48]   Loaded.
+[15:45:48]  Loading plugin: TDE
+[15:45:48] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:45:48]   Loaded.
+[15:45:48]  Loaded 2 plugins.
+
+[15:45:48] 
+[15:45:48] Filterscripts
+[15:45:48] ---------------
+[15:45:48]   Loading filterscript 'TDE.amx'...
+[15:45:48]  
+[15:45:48]  
+[15:45:48]  
+[15:45:48]  
+[15:45:48] ___ __  __
+[15:45:48]  | |  \|_  _|.|_ _  _		
+[15:45:48]  | |__/|__(_|||_(_)|			
+[15:45:48]  
+[15:45:48] TDEditor V1.17 by adri1
+[15:45:48] TDEditor loaded
+[15:45:48]  
+[15:45:48]   Loaded 1 filterscripts.
+
+[15:45:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:45:48] 
+----------------------------------
+[15:45:48]   Bare Script
+
+[15:45:48] ----------------------------------
+
+[15:45:48] Number of vehicle models: 0
+[15:46:30] [connection] 192.168.1.101:50034 requests connection cookie.
+[15:46:31] [connection] incoming connection: 192.168.1.101:50034 id: 0
+[15:46:31] [join] SantoS has joined the server (0:192.168.1.101)
+[15:57:53] [part] SantoS has left the server (0:1)
+[15:58:02] --- Server Shutting Down.
+[15:58:02]  
+[15:58:02]  
+[15:58:02]  
+[15:58:02]  
+[15:58:02] ___ __  __
+[15:58:02]  | |  \|_  _|.|_ _  _		
+[15:58:02]  | |__/|__(_|||_(_)|			
+[15:58:02]  
+[15:58:02] TDEditor V1.17 by adri1
+[15:58:02] TDEditor unloaded
+[15:58:02]  
+[15:58:03] 
+
+[15:58:03]  ===============================
+
+[15:58:03]      sscanf plugin unloaded.    
+
+[15:58:03]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:19:09] 
+[21:19:09] Server Plugins
+[21:19:09] --------------
+[21:19:09]  Loading plugin: sscanf
+[21:19:09] 
+
+[21:19:09]  ===============================
+
+[21:19:09]       sscanf plugin loaded.     
+
+[21:19:09]    (c) 2009 Alex "Y_Less" Cole
+
+[21:19:09]    0.3d-R2 500 Players "dnee"
+
+[21:19:09]  ===============================
+
+[21:19:09]   Loaded.
+[21:19:09]  Loading plugin: TDE
+[21:19:09] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:19:09]   Loaded.
+[21:19:09]  Loaded 2 plugins.
+
+[21:19:09] 
+[21:19:09] Filterscripts
+[21:19:09] ---------------
+[21:19:09]   Loading filterscript 'TDE.amx'...
+[21:19:09]  
+[21:19:09]  
+[21:19:09]  
+[21:19:09]  
+[21:19:09] ___ __  __
+[21:19:09]  | |  \|_  _|.|_ _  _		
+[21:19:09]  | |__/|__(_|||_(_)|			
+[21:19:09]  
+[21:19:09] TDEditor V1.17 by adri1
+[21:19:09] TDEditor loaded
+[21:19:09]  
+[21:19:09]   Loaded 1 filterscripts.
+
+[21:19:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:19:09] 
+----------------------------------
+[21:19:09]   Bare Script
+
+[21:19:09] ----------------------------------
+
+[21:19:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:36:40] 
+[21:36:40] Server Plugins
+[21:36:40] --------------
+[21:36:40]  Loading plugin: sscanf
+[21:36:40] 
+
+[21:36:40]  ===============================
+
+[21:36:40]       sscanf plugin loaded.     
+
+[21:36:40]    (c) 2009 Alex "Y_Less" Cole
+
+[21:36:40]    0.3d-R2 500 Players "dnee"
+
+[21:36:40]  ===============================
+
+[21:36:40]   Loaded.
+[21:36:40]  Loading plugin: TDE
+[21:36:40] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:36:40]   Loaded.
+[21:36:40]  Loaded 2 plugins.
+
+[21:36:41] 
+[21:36:41] Filterscripts
+[21:36:41] ---------------
+[21:36:41]   Loading filterscript 'TDE.amx'...
+[21:36:41]  
+[21:36:41]  
+[21:36:41]  
+[21:36:41]  
+[21:36:41] ___ __  __
+[21:36:41]  | |  \|_  _|.|_ _  _		
+[21:36:41]  | |__/|__(_|||_(_)|			
+[21:36:41]  
+[21:36:41] TDEditor V1.17 by adri1
+[21:36:41] TDEditor loaded
+[21:36:41]  
+[21:36:41]   Loaded 1 filterscripts.
+
+[21:36:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:36:41] 
+----------------------------------
+[21:36:41]   Bare Script
+
+[21:36:41] ----------------------------------
+
+[21:36:41] Number of vehicle models: 0
+[21:45:09] [connection] 192.168.1.101:61640 requests connection cookie.
+[21:45:10] [connection] incoming connection: 192.168.1.101:61640 id: 0
+[21:45:10] [join] SantoS has joined the server (0:192.168.1.101)
+[21:59:52] [part] SantoS has left the server (0:1)
+[21:59:57] --- Server Shutting Down.
+[21:59:57]  
+[21:59:57]  
+[21:59:57]  
+[21:59:57]  
+[21:59:57] ___ __  __
+[21:59:57]  | |  \|_  _|.|_ _  _		
+[21:59:57]  | |__/|__(_|||_(_)|			
+[21:59:57]  
+[21:59:57] TDEditor V1.17 by adri1
+[21:59:57] TDEditor unloaded
+[21:59:57]  
+[21:59:57] 
+
+[21:59:57]  ===============================
+
+[21:59:57]      sscanf plugin unloaded.    
+
+[21:59:57]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:33:03] 
+[15:33:03] Server Plugins
+[15:33:03] --------------
+[15:33:03]  Loading plugin: sscanf
+[15:33:03] 
+
+[15:33:03]  ===============================
+
+[15:33:03]       sscanf plugin loaded.     
+
+[15:33:03]    (c) 2009 Alex "Y_Less" Cole
+
+[15:33:03]    0.3d-R2 500 Players "dnee"
+
+[15:33:03]  ===============================
+
+[15:33:03]   Loaded.
+[15:33:03]  Loading plugin: TDE
+[15:33:03] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:33:03]   Loaded.
+[15:33:03]  Loaded 2 plugins.
+
+[15:33:04] 
+[15:33:04] Filterscripts
+[15:33:04] ---------------
+[15:33:04]   Loading filterscript 'TDE.amx'...
+[15:33:04]  
+[15:33:04]  
+[15:33:04]  
+[15:33:04]  
+[15:33:04] ___ __  __
+[15:33:04]  | |  \|_  _|.|_ _  _		
+[15:33:04]  | |__/|__(_|||_(_)|			
+[15:33:04]  
+[15:33:04] TDEditor V1.17 by adri1
+[15:33:04] TDEditor loaded
+[15:33:04]  
+[15:33:04]   Loaded 1 filterscripts.
+
+[15:33:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:33:04] 
+----------------------------------
+[15:33:04]   Bare Script
+
+[15:33:04] ----------------------------------
+
+[15:33:04] Number of vehicle models: 0
+[15:33:36] [connection] 127.0.0.1:55780 requests connection cookie.
+[15:33:37] [connection] incoming connection: 127.0.0.1:55780 id: 0
+[15:33:37] [join] DollynhO has joined the server (0:127.0.0.1)
+[15:39:58] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:23:14] 
+[18:23:14] Server Plugins
+[18:23:14] --------------
+[18:23:14]  Loading plugin: sscanf
+[18:23:14] 
+
+[18:23:14]  ===============================
+
+[18:23:14]       sscanf plugin loaded.     
+
+[18:23:14]    (c) 2009 Alex "Y_Less" Cole
+
+[18:23:14]    0.3d-R2 500 Players "dnee"
+
+[18:23:14]  ===============================
+
+[18:23:14]   Loaded.
+[18:23:14]  Loading plugin: TDE
+[18:23:14] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:23:14]   Loaded.
+[18:23:14]  Loaded 2 plugins.
+
+[18:23:14] 
+[18:23:14] Filterscripts
+[18:23:14] ---------------
+[18:23:14]   Loading filterscript 'TDE.amx'...
+[18:23:14]  
+[18:23:14]  
+[18:23:14]  
+[18:23:14]  
+[18:23:14] ___ __  __
+[18:23:14]  | |  \|_  _|.|_ _  _		
+[18:23:14]  | |__/|__(_|||_(_)|			
+[18:23:14]  
+[18:23:14] TDEditor V1.17 by adri1
+[18:23:14] TDEditor loaded
+[18:23:14]  
+[18:23:14]   Loaded 1 filterscripts.
+
+[18:23:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:23:15] 
+----------------------------------
+[18:23:15]   Bare Script
+
+[18:23:15] ----------------------------------
+
+[18:23:15] Number of vehicle models: 0
+[18:23:57] [connection] 127.0.0.1:51993 requests connection cookie.
+[18:23:58] [connection] incoming connection: 127.0.0.1:51993 id: 0
+[18:23:58] [join] DollynhO has joined the server (0:127.0.0.1)
+[23:52:05] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:21:57] 
+[16:21:57] Server Plugins
+[16:21:57] --------------
+[16:21:57]  Loading plugin: sscanf
+[16:21:57] 
+
+[16:21:57]  ===============================
+
+[16:21:57]       sscanf plugin loaded.     
+
+[16:21:57]    (c) 2009 Alex "Y_Less" Cole
+
+[16:21:57]    0.3d-R2 500 Players "dnee"
+
+[16:21:57]  ===============================
+
+[16:21:57]   Loaded.
+[16:21:57]  Loading plugin: TDE
+[16:21:57] 
+TDEditor Plugin loaded, thank you for using.
+
+[16:21:57]   Loaded.
+[16:21:57]  Loaded 2 plugins.
+
+[16:21:57] 
+[16:21:57] Filterscripts
+[16:21:57] ---------------
+[16:21:57]   Loading filterscript 'TDE.amx'...
+[16:21:57]  
+[16:21:57]  
+[16:21:57]  
+[16:21:57]  
+[16:21:57] ___ __  __
+[16:21:57]  | |  \|_  _|.|_ _  _		
+[16:21:57]  | |__/|__(_|||_(_)|			
+[16:21:57]  
+[16:21:57] TDEditor V1.17 by adri1
+[16:21:57] TDEditor loaded
+[16:21:57]  
+[16:21:57]   Loaded 1 filterscripts.
+
+[16:21:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:21:57] 
+----------------------------------
+[16:21:57]   Bare Script
+
+[16:21:57] ----------------------------------
+
+[16:21:57] Number of vehicle models: 0
+[16:23:02] [connection] 127.0.0.1:60664 requests connection cookie.
+[16:23:03] [connection] incoming connection: 127.0.0.1:60664 id: 0
+[16:23:03] [join] DollynhO has joined the server (0:127.0.0.1)
+[17:12:20] [part] DollynhO has left the server (0:1)
+[17:18:01] [connection] 127.0.0.1:53539 requests connection cookie.
+[17:18:02] [connection] incoming connection: 127.0.0.1:53539 id: 0
+[17:18:02] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:32:02] 
+[18:32:02] Server Plugins
+[18:32:02] --------------
+[18:32:02]  Loading plugin: sscanf
+[18:32:02] 
+
+[18:32:02]  ===============================
+
+[18:32:02]       sscanf plugin loaded.     
+
+[18:32:02]    (c) 2009 Alex "Y_Less" Cole
+
+[18:32:02]    0.3d-R2 500 Players "dnee"
+
+[18:32:02]  ===============================
+
+[18:32:02]   Loaded.
+[18:32:02]  Loading plugin: TDE
+[18:32:02] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:32:02]   Loaded.
+[18:32:02]  Loaded 2 plugins.
+
+[18:32:02] 
+[18:32:02] Filterscripts
+[18:32:02] ---------------
+[18:32:02]   Loading filterscript 'TDE.amx'...
+[18:32:02]  
+[18:32:02]  
+[18:32:02]  
+[18:32:02]  
+[18:32:02] ___ __  __
+[18:32:02]  | |  \|_  _|.|_ _  _		
+[18:32:02]  | |__/|__(_|||_(_)|			
+[18:32:02]  
+[18:32:02] TDEditor V1.17 by adri1
+[18:32:02] TDEditor loaded
+[18:32:02]  
+[18:32:02]   Loaded 1 filterscripts.
+
+[18:32:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:32:02] 
+----------------------------------
+[18:32:02]   Bare Script
+
+[18:32:02] ----------------------------------
+
+[18:32:02] Number of vehicle models: 0
+[18:39:42] [connection] 127.0.0.1:60607 requests connection cookie.
+[18:39:43] [connection] incoming connection: 127.0.0.1:60607 id: 0
+[18:39:43] [join] DollynhO has joined the server (0:127.0.0.1)
+[18:58:39] [part] DollynhO has left the server (0:1)
+[19:08:11] [connection] 127.0.0.1:55366 requests connection cookie.
+[19:08:12] [connection] incoming connection: 127.0.0.1:55366 id: 0
+[19:08:12] [join] DollyhnO has joined the server (0:127.0.0.1)
+[20:07:27] [part] DollyhnO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:07:46] 
+[20:07:46] Server Plugins
+[20:07:46] --------------
+[20:07:46]  Loading plugin: sscanf
+[20:07:46] 
+
+[20:07:46]  ===============================
+
+[20:07:46]       sscanf plugin loaded.     
+
+[20:07:46]    (c) 2009 Alex "Y_Less" Cole
+
+[20:07:46]    0.3d-R2 500 Players "dnee"
+
+[20:07:46]  ===============================
+
+[20:07:46]   Loaded.
+[20:07:46]  Loading plugin: TDE
+[20:07:46] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:07:46]   Loaded.
+[20:07:46]  Loaded 2 plugins.
+
+[20:07:46] 
+[20:07:46] Filterscripts
+[20:07:46] ---------------
+[20:07:46]   Loading filterscript 'TDE.amx'...
+[20:07:46]  
+[20:07:46]  
+[20:07:46]  
+[20:07:46]  
+[20:07:46] ___ __  __
+[20:07:46]  | |  \|_  _|.|_ _  _		
+[20:07:46]  | |__/|__(_|||_(_)|			
+[20:07:46]  
+[20:07:46] TDEditor V1.17 by adri1
+[20:07:46] TDEditor loaded
+[20:07:46]  
+[20:07:46]   Loaded 1 filterscripts.
+
+[20:07:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:07:46] 
+----------------------------------
+[20:07:46]   Bare Script
+
+[20:07:46] ----------------------------------
+
+[20:07:46] Number of vehicle models: 0
+[20:08:59] [connection] 127.0.0.1:53789 requests connection cookie.
+[20:09:00] [connection] incoming connection: 127.0.0.1:53789 id: 0
+[20:09:01] [join] DollyhnO has joined the server (0:127.0.0.1)
+[20:09:28] [part] DollyhnO has left the server (0:1)
+[20:17:48] [connection] 127.0.0.1:65113 requests connection cookie.
+[20:17:49] [connection] incoming connection: 127.0.0.1:65113 id: 0
+[20:17:49] [join] Huginho_Carvalho has joined the server (0:127.0.0.1)
+[21:14:02] [part] Huginho_Carvalho has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:49:57] 
+[21:49:57] Server Plugins
+[21:49:57] --------------
+[21:49:57]  Loading plugin: sscanf
+[21:49:57] 
+
+[21:49:57]  ===============================
+
+[21:49:57]       sscanf plugin loaded.     
+
+[21:49:57]    (c) 2009 Alex "Y_Less" Cole
+
+[21:49:57]    0.3d-R2 500 Players "dnee"
+
+[21:49:57]  ===============================
+
+[21:49:57]   Loaded.
+[21:49:57]  Loading plugin: TDE
+[21:49:58] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:49:58]   Loaded.
+[21:49:58]  Loaded 2 plugins.
+
+[21:49:58] 
+[21:49:58] Filterscripts
+[21:49:58] ---------------
+[21:49:58]   Loading filterscript 'TDE.amx'...
+[21:49:58]  
+[21:49:58]  
+[21:49:58]  
+[21:49:58]  
+[21:49:58] ___ __  __
+[21:49:58]  | |  \|_  _|.|_ _  _		
+[21:49:58]  | |__/|__(_|||_(_)|			
+[21:49:58]  
+[21:49:58] TDEditor V1.17 by adri1
+[21:49:58] TDEditor loaded
+[21:49:58]  
+[21:49:58]   Loaded 1 filterscripts.
+
+[21:49:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:49:58] 
+----------------------------------
+[21:49:58]   Bare Script
+
+[21:49:58] ----------------------------------
+
+[21:49:58] Number of vehicle models: 0
+[21:51:02] [connection] 127.0.0.1:63120 requests connection cookie.
+[21:51:03] [connection] incoming connection: 127.0.0.1:63120 id: 0
+[21:51:03] [join] DollynhO has joined the server (0:127.0.0.1)
+[21:51:13] [part] DollynhO has left the server (0:1)
+[21:52:47] [connection] 127.0.0.1:64941 requests connection cookie.
+[21:52:48] [connection] incoming connection: 127.0.0.1:64941 id: 0
+[21:52:48] [join] DollynhO has joined the server (0:127.0.0.1)
+[22:08:00] [part] DollynhO has left the server (0:1)
+[22:09:18] [connection] 127.0.0.1:56081 requests connection cookie.
+[22:09:19] [connection] incoming connection: 127.0.0.1:56081 id: 0
+[22:09:19] [join] DollynhO has joined the server (0:127.0.0.1)
+[22:09:55] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:06:27] 
+[23:06:27] Server Plugins
+[23:06:27] --------------
+[23:06:27]  Loading plugin: sscanf
+[23:06:27] 
+
+[23:06:27]  ===============================
+
+[23:06:27]       sscanf plugin loaded.     
+
+[23:06:27]    (c) 2009 Alex "Y_Less" Cole
+
+[23:06:27]    0.3d-R2 500 Players "dnee"
+
+[23:06:27]  ===============================
+
+[23:06:27]   Loaded.
+[23:06:27]  Loading plugin: TDE
+[23:06:27] 
+TDEditor Plugin loaded, thank you for using.
+
+[23:06:27]   Loaded.
+[23:06:27]  Loaded 2 plugins.
+
+[23:06:28] 
+[23:06:28] Filterscripts
+[23:06:28] ---------------
+[23:06:28]   Loading filterscript 'TDE.amx'...
+[23:06:28]  
+[23:06:28]  
+[23:06:28]  
+[23:06:28]  
+[23:06:28] ___ __  __
+[23:06:28]  | |  \|_  _|.|_ _  _		
+[23:06:28]  | |__/|__(_|||_(_)|			
+[23:06:28]  
+[23:06:28] TDEditor V1.17 by adri1
+[23:06:28] TDEditor loaded
+[23:06:28]  
+[23:06:28]   Loaded 1 filterscripts.
+
+[23:06:28] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:06:28] 
+----------------------------------
+[23:06:28]   Bare Script
+
+[23:06:28] ----------------------------------
+
+[23:06:28] Number of vehicle models: 0
+[23:07:39] [connection] 127.0.0.1:63782 requests connection cookie.
+[23:07:40] [connection] incoming connection: 127.0.0.1:63782 id: 0
+[23:07:40] [join] DollynhO has joined the server (0:127.0.0.1)
+[23:08:19] [part] DollynhO has left the server (0:1)
+[23:13:59] [connection] 127.0.0.1:49560 requests connection cookie.
+[23:14:00] [connection] incoming connection: 127.0.0.1:49560 id: 0
+[23:14:00] [join] DollynhO has joined the server (0:127.0.0.1)
+[23:14:28] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:39] 
+[23:18:39] Server Plugins
+[23:18:39] --------------
+[23:18:39]  Loading plugin: sscanf
+[23:18:39] 
+
+[23:18:39]  ===============================
+
+[23:18:39]       sscanf plugin loaded.     
+
+[23:18:39]    (c) 2009 Alex "Y_Less" Cole
+
+[23:18:39]    0.3d-R2 500 Players "dnee"
+
+[23:18:39]  ===============================
+
+[23:18:39]   Loaded.
+[23:18:39]  Loading plugin: TDE
+[23:18:39] 
+TDEditor Plugin loaded, thank you for using.
+
+[23:18:39]   Loaded.
+[23:18:39]  Loaded 2 plugins.
+
+[23:18:39] 
+[23:18:39] Filterscripts
+[23:18:39] ---------------
+[23:18:39]   Loading filterscript 'TDE.amx'...
+[23:18:39]  
+[23:18:39]  
+[23:18:39]  
+[23:18:39]  
+[23:18:39] ___ __  __
+[23:18:39]  | |  \|_  _|.|_ _  _		
+[23:18:39]  | |__/|__(_|||_(_)|			
+[23:18:39]  
+[23:18:39] TDEditor V1.17 by adri1
+[23:18:39] TDEditor loaded
+[23:18:39]  
+[23:18:39]   Loaded 1 filterscripts.
+
+[23:18:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[23:18:39] 
+----------------------------------
+[23:18:39]   Bare Script
+
+[23:18:39] ----------------------------------
+
+[23:18:39] Number of vehicle models: 0
+[23:19:09] [connection] 127.0.0.1:54192 requests connection cookie.
+[23:19:10] [connection] incoming connection: 127.0.0.1:54192 id: 0
+[23:19:10] [join] DollynhO has joined the server (0:127.0.0.1)
+[23:39:31] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[03:39:48] 
+[03:39:48] Server Plugins
+[03:39:48] --------------
+[03:39:48]  Loading plugin: sscanf
+[03:39:48] 
+
+[03:39:48]  ===============================
+
+[03:39:48]       sscanf plugin loaded.     
+
+[03:39:48]    (c) 2009 Alex "Y_Less" Cole
+
+[03:39:48]    0.3d-R2 500 Players "dnee"
+
+[03:39:48]  ===============================
+
+[03:39:48]   Loaded.
+[03:39:48]  Loading plugin: TDE
+[03:39:49] 
+TDEditor Plugin loaded, thank you for using.
+
+[03:39:49]   Loaded.
+[03:39:49]  Loaded 2 plugins.
+
+[03:39:49] 
+[03:39:49] Filterscripts
+[03:39:49] ---------------
+[03:39:49]   Loading filterscript 'TDE.amx'...
+[03:39:50]  
+[03:39:50]  
+[03:39:50]  
+[03:39:50]  
+[03:39:50] ___ __  __
+[03:39:50]  | |  \|_  _|.|_ _  _		
+[03:39:50]  | |__/|__(_|||_(_)|			
+[03:39:50]  
+[03:39:50] TDEditor V1.17 by adri1
+[03:39:50] TDEditor loaded
+[03:39:50]  
+[03:39:50]   Loaded 1 filterscripts.
+
+[03:39:50] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[03:39:50] 
+----------------------------------
+[03:39:50]   Bare Script
+
+[03:39:50] ----------------------------------
+
+[03:39:50] Number of vehicle models: 0
+[03:40:29] [connection] 127.0.0.1:63923 requests connection cookie.
+[03:40:30] [connection] incoming connection: 127.0.0.1:63923 id: 0
+[03:40:30] [join] DollynhO has joined the server (0:127.0.0.1)
+[03:44:16] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:12] 
+[21:54:12] Server Plugins
+[21:54:12] --------------
+[21:54:12]  Loading plugin: sscanf
+[21:54:12] 
+
+[21:54:12]  ===============================
+
+[21:54:12]       sscanf plugin loaded.     
+
+[21:54:12]    (c) 2009 Alex "Y_Less" Cole
+
+[21:54:12]    0.3d-R2 500 Players "dnee"
+
+[21:54:12]  ===============================
+
+[21:54:12]   Loaded.
+[21:54:12]  Loading plugin: TDE
+[21:54:12] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:54:12]   Loaded.
+[21:54:12]  Loaded 2 plugins.
+
+[21:54:12] 
+[21:54:12] Filterscripts
+[21:54:12] ---------------
+[21:54:12]   Loading filterscript 'TDE.amx'...
+[21:54:12]  
+[21:54:12]  
+[21:54:12]  
+[21:54:12]  
+[21:54:12] ___ __  __
+[21:54:12]  | |  \|_  _|.|_ _  _		
+[21:54:12]  | |__/|__(_|||_(_)|			
+[21:54:12]  
+[21:54:12] TDEditor V1.17 by adri1
+[21:54:12] TDEditor loaded
+[21:54:12]  
+[21:54:12]   Loaded 1 filterscripts.
+
+[21:54:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:54:12] 
+----------------------------------
+[21:54:12]   Bare Script
+
+[21:54:12] ----------------------------------
+
+[21:54:12] Number of vehicle models: 0
+[21:54:45] [connection] 127.0.0.1:51063 requests connection cookie.
+[21:54:46] [connection] incoming connection: 127.0.0.1:51063 id: 0
+[21:54:46] [join] DollynhO has joined the server (0:127.0.0.1)
+[21:56:11] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:46] 
+[19:39:46] Server Plugins
+[19:39:46] --------------
+[19:39:46]  Loading plugin: sscanf
+[19:39:46] 
+
+[19:39:46]  ===============================
+
+[19:39:46]       sscanf plugin loaded.     
+
+[19:39:46]    (c) 2009 Alex "Y_Less" Cole
+
+[19:39:46]    0.3d-R2 500 Players "dnee"
+
+[19:39:46]  ===============================
+
+[19:39:46]   Loaded.
+[19:39:46]  Loading plugin: TDE
+[19:39:47] 
+TDEditor Plugin loaded, thank you for using.
+
+[19:39:47]   Loaded.
+[19:39:47]  Loaded 2 plugins.
+
+[19:39:47] 
+[19:39:47] Filterscripts
+[19:39:47] ---------------
+[19:39:47]   Loading filterscript 'TDE.amx'...
+[19:39:47]  
+[19:39:47]  
+[19:39:47]  
+[19:39:47]  
+[19:39:47] ___ __  __
+[19:39:47]  | |  \|_  _|.|_ _  _		
+[19:39:47]  | |__/|__(_|||_(_)|			
+[19:39:47]  
+[19:39:47] TDEditor V1.17 by adri1
+[19:39:47] TDEditor loaded
+[19:39:47]  
+[19:39:47]   Loaded 1 filterscripts.
+
+[19:39:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:39:47] 
+----------------------------------
+[19:39:47]   Bare Script
+
+[19:39:47] ----------------------------------
+
+[19:39:47] Number of vehicle models: 0
+[19:40:17] [connection] 127.0.0.1:55380 requests connection cookie.
+[19:40:18] [connection] incoming connection: 127.0.0.1:55380 id: 0
+[19:40:18] [join] DollynhO has joined the server (0:127.0.0.1)
+[19:43:48] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:21:47] 
+[11:21:47] Server Plugins
+[11:21:47] --------------
+[11:21:47]  Loading plugin: sscanf
+[11:21:48] 
+
+[11:21:48]  ===============================
+
+[11:21:48]       sscanf plugin loaded.     
+
+[11:21:48]    (c) 2009 Alex "Y_Less" Cole
+
+[11:21:48]    0.3d-R2 500 Players "dnee"
+
+[11:21:48]  ===============================
+
+[11:21:48]   Loaded.
+[11:21:48]  Loading plugin: TDE
+[11:21:49] 
+TDEditor Plugin loaded, thank you for using.
+
+[11:21:49]   Loaded.
+[11:21:49]  Loaded 2 plugins.
+
+[11:21:49] 
+[11:21:49] Filterscripts
+[11:21:49] ---------------
+[11:21:49]   Loading filterscript 'TDE.amx'...
+[11:21:49]  
+[11:21:49]  
+[11:21:49]  
+[11:21:49]  
+[11:21:49] ___ __  __
+[11:21:49]  | |  \|_  _|.|_ _  _		
+[11:21:49]  | |__/|__(_|||_(_)|			
+[11:21:49]  
+[11:21:49] TDEditor V1.17 by adri1
+[11:21:49] TDEditor loaded
+[11:21:49]  
+[11:21:49]   Loaded 1 filterscripts.
+
+[11:21:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:21:49] 
+----------------------------------
+[11:21:49]   Bare Script
+
+[11:21:49] ----------------------------------
+
+[11:21:49] Number of vehicle models: 0
+[11:22:16] [connection] 127.0.0.1:54094 requests connection cookie.
+[11:22:17] [connection] incoming connection: 127.0.0.1:54094 id: 0
+[11:22:17] [join] DollynhO has joined the server (0:127.0.0.1)
+[11:24:21] [part] DollynhO has left the server (0:1)
+[11:26:10] [connection] 127.0.0.1:51780 requests connection cookie.
+[11:26:11] [connection] incoming connection: 127.0.0.1:51780 id: 0
+[11:26:11] [join] DollynhO has joined the server (0:127.0.0.1)
+[11:26:52] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:03:05] 
+[14:03:05] Server Plugins
+[14:03:05] --------------
+[14:03:05]  Loading plugin: sscanf
+[14:03:05] 
+
+[14:03:05]  ===============================
+
+[14:03:05]       sscanf plugin loaded.     
+
+[14:03:05]    (c) 2009 Alex "Y_Less" Cole
+
+[14:03:05]    0.3d-R2 500 Players "dnee"
+
+[14:03:05]  ===============================
+
+[14:03:05]   Loaded.
+[14:03:05]  Loading plugin: TDE
+[14:03:05] 
+TDEditor Plugin loaded, thank you for using.
+
+[14:03:05]   Loaded.
+[14:03:05]  Loaded 2 plugins.
+
+[14:03:05] 
+[14:03:05] Filterscripts
+[14:03:05] ---------------
+[14:03:05]   Loading filterscript 'TDE.amx'...
+[14:03:05]  
+[14:03:05]  
+[14:03:05]  
+[14:03:05]  
+[14:03:05] ___ __  __
+[14:03:05]  | |  \|_  _|.|_ _  _		
+[14:03:05]  | |__/|__(_|||_(_)|			
+[14:03:05]  
+[14:03:05] TDEditor V1.17 by adri1
+[14:03:05] TDEditor loaded
+[14:03:05]  
+[14:03:05]   Loaded 1 filterscripts.
+
+[14:03:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:03:05] 
+----------------------------------
+[14:03:05]   Bare Script
+
+[14:03:05] ----------------------------------
+
+[14:03:05] Number of vehicle models: 0
+[14:08:31] [connection] 127.0.0.1:54776 requests connection cookie.
+[14:08:32] [connection] incoming connection: 127.0.0.1:54776 id: 0
+[14:08:32] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:06:06] 
+[16:06:06] Server Plugins
+[16:06:06] --------------
+[16:06:06]  Loading plugin: sscanf
+[16:06:06] 
+
+[16:06:06]  ===============================
+
+[16:06:06]       sscanf plugin loaded.     
+
+[16:06:06]    (c) 2009 Alex "Y_Less" Cole
+
+[16:06:06]    0.3d-R2 500 Players "dnee"
+
+[16:06:06]  ===============================
+
+[16:06:06]   Loaded.
+[16:06:06]  Loading plugin: TDE
+[16:06:06] 
+TDEditor Plugin loaded, thank you for using.
+
+[16:06:06]   Loaded.
+[16:06:06]  Loaded 2 plugins.
+
+[16:06:06] 
+[16:06:06] Filterscripts
+[16:06:06] ---------------
+[16:06:06]   Loading filterscript 'TDE.amx'...
+[16:06:06]  
+[16:06:06]  
+[16:06:06]  
+[16:06:06]  
+[16:06:06] ___ __  __
+[16:06:06]  | |  \|_  _|.|_ _  _		
+[16:06:06]  | |__/|__(_|||_(_)|			
+[16:06:06]  
+[16:06:06] TDEditor V1.17 by adri1
+[16:06:06] TDEditor loaded
+[16:06:06]  
+[16:06:06]   Loaded 1 filterscripts.
+
+[16:06:06] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:06:06] 
+----------------------------------
+[16:06:06]   Bare Script
+
+[16:06:06] ----------------------------------
+
+[16:06:06] Number of vehicle models: 0
+[16:06:26] [connection] 127.0.0.1:62008 requests connection cookie.
+[16:06:27] [connection] incoming connection: 127.0.0.1:62008 id: 0
+[16:06:27] [join] DollynhO has joined the server (0:127.0.0.1)
+[16:06:58] [chat] [DollynhO]: 
+[16:08:31] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:37] 
+[21:45:37] Server Plugins
+[21:45:37] --------------
+[21:45:37]  Loading plugin: sscanf
+[21:45:37] 
+
+[21:45:37]  ===============================
+
+[21:45:37]       sscanf plugin loaded.     
+
+[21:45:37]          Version:  2.8.3        
+
+[21:45:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:45:37]  ===============================
+
+[21:45:37]   Loaded.
+[21:45:37]  Loading plugin: TDE
+[21:45:39] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:45:39]   Loaded.
+[21:45:39]  Loaded 2 plugins.
+
+[21:45:39] 
+[21:45:39] Filterscripts
+[21:45:39] ---------------
+[21:45:39]   Loading filterscript 'TDE.amx'...
+[21:45:39]  
+[21:45:39]  
+[21:45:39]  
+[21:45:39]  
+[21:45:39] ___ __  __
+[21:45:39]  | |  \|_  _|.|_ _  _		
+[21:45:39]  | |__/|__(_|||_(_)|			
+[21:45:39]  
+[21:45:39] TDEditor V1.17 by adri1
+[21:45:39] TDEditor loaded
+[21:45:39]  
+[21:45:39]   Loaded 1 filterscripts.
+
+[21:45:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:45:39] 
+----------------------------------
+[21:45:39]   Bare Script
+
+[21:45:39] ----------------------------------
+
+[21:45:39] Number of vehicle models: 0
+[21:46:54] [connection] 127.0.0.1:57142 requests connection cookie.
+[21:46:55] [connection] incoming connection: 127.0.0.1:57142 id: 0
+[21:46:55] [join] DollynhO has joined the server (0:127.0.0.1)
+[21:53:43] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:22:15] 
+[18:22:15] Server Plugins
+[18:22:15] --------------
+[18:22:15]  Loading plugin: sscanf
+[18:22:15] 
+
+[18:22:15]  ===============================
+
+[18:22:15]       sscanf plugin loaded.     
+
+[18:22:15]          Version:  2.8.3        
+
+[18:22:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:22:15]  ===============================
+
+[18:22:15]   Loaded.
+[18:22:15]  Loading plugin: TDE
+[18:22:15] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:22:15]   Loaded.
+[18:22:15]  Loaded 2 plugins.
+
+[18:22:16] 
+[18:22:16] Filterscripts
+[18:22:16] ---------------
+[18:22:16]   Loading filterscript 'TDE.amx'...
+[18:22:16]  
+[18:22:16]  
+[18:22:16]  
+[18:22:16]  
+[18:22:16] ___ __  __
+[18:22:16]  | |  \|_  _|.|_ _  _		
+[18:22:16]  | |__/|__(_|||_(_)|			
+[18:22:16]  
+[18:22:16] TDEditor V1.17 by adri1
+[18:22:16] TDEditor loaded
+[18:22:16]  
+[18:22:16]   Loaded 1 filterscripts.
+
+[18:22:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:22:16] 
+----------------------------------
+[18:22:16]   Bare Script
+
+[18:22:16] ----------------------------------
+
+[18:22:16] Number of vehicle models: 0
+[18:22:56] [connection] 127.0.0.1:63962 requests connection cookie.
+[18:22:57] [connection] incoming connection: 127.0.0.1:63962 id: 0
+[18:22:57] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:35:52] 
+[10:35:52] Server Plugins
+[10:35:52] --------------
+[10:35:52]  Loading plugin: sscanf
+[10:35:52] 
+
+[10:35:52]  ===============================
+
+[10:35:52]       sscanf plugin loaded.     
+
+[10:35:52]          Version:  2.8.3        
+
+[10:35:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:35:52]  ===============================
+
+[10:35:52]   Loaded.
+[10:35:52]  Loading plugin: TDE
+[10:35:53] 
+TDEditor Plugin loaded, thank you for using.
+
+[10:35:53]   Loaded.
+[10:35:53]  Loaded 2 plugins.
+
+[10:35:53] 
+[10:35:53] Filterscripts
+[10:35:53] ---------------
+[10:35:53]   Loading filterscript 'TDE.amx'...
+[10:35:53]  
+[10:35:53]  
+[10:35:53]  
+[10:35:53]  
+[10:35:53] ___ __  __
+[10:35:53]  | |  \|_  _|.|_ _  _		
+[10:35:53]  | |__/|__(_|||_(_)|			
+[10:35:53]  
+[10:35:53] TDEditor V1.17 by adri1
+[10:35:53] TDEditor loaded
+[10:35:53]  
+[10:35:53]   Loaded 1 filterscripts.
+
+[10:35:53] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:35:53] 
+----------------------------------
+[10:35:53]   Bare Script
+
+[10:35:53] ----------------------------------
+
+[10:35:53] Number of vehicle models: 0
+[10:36:21] [connection] 127.0.0.1:50895 requests connection cookie.
+[10:36:22] [connection] incoming connection: 127.0.0.1:50895 id: 0
+[10:36:22] [join] DollynhO has joined the server (0:127.0.0.1)
+[10:57:56] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:33:17] 
+[20:33:17] Server Plugins
+[20:33:17] --------------
+[20:33:17]  Loading plugin: sscanf
+[20:33:17] 
+
+[20:33:17]  ===============================
+
+[20:33:17]       sscanf plugin loaded.     
+
+[20:33:17]          Version:  2.8.3        
+
+[20:33:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:33:17]  ===============================
+
+[20:33:17]   Loaded.
+[20:33:17]  Loading plugin: TDE
+[20:33:18] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:33:18]   Loaded.
+[20:33:18]  Loaded 2 plugins.
+
+[20:33:18] 
+[20:33:18] Filterscripts
+[20:33:18] ---------------
+[20:33:18]   Loading filterscript 'TDE.amx'...
+[20:33:19]  
+[20:33:19]  
+[20:33:19]  
+[20:33:19]  
+[20:33:19] ___ __  __
+[20:33:19]  | |  \|_  _|.|_ _  _		
+[20:33:19]  | |__/|__(_|||_(_)|			
+[20:33:19]  
+[20:33:19] TDEditor V1.17 by adri1
+[20:33:19] TDEditor loaded
+[20:33:19]  
+[20:33:19]   Loaded 1 filterscripts.
+
+[20:33:19] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:33:19] 
+----------------------------------
+[20:33:19]   Bare Script
+
+[20:33:19] ----------------------------------
+
+[20:33:19] Number of vehicle models: 0
+[20:35:18] [connection] 127.0.0.1:65234 requests connection cookie.
+[20:35:19] [connection] incoming connection: 127.0.0.1:65234 id: 0
+[20:35:20] [join] Hunriel_Blinders has joined the server (0:127.0.0.1)
+[20:44:13] [part] Hunriel_Blinders has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:44:24] 
+[20:44:24] Server Plugins
+[20:44:24] --------------
+[20:44:24]  Loading plugin: sscanf
+[20:44:24] 
+
+[20:44:24]  ===============================
+
+[20:44:24]       sscanf plugin loaded.     
+
+[20:44:24]          Version:  2.8.3        
+
+[20:44:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:44:24]  ===============================
+
+[20:44:24]   Loaded.
+[20:44:24]  Loading plugin: TDE
+[20:44:24] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:44:24]   Loaded.
+[20:44:24]  Loaded 2 plugins.
+
+[20:44:24] 
+[20:44:24] Filterscripts
+[20:44:24] ---------------
+[20:44:24]   Loading filterscript 'TDE.amx'...
+[20:44:24]  
+[20:44:24]  
+[20:44:24]  
+[20:44:24]  
+[20:44:24] ___ __  __
+[20:44:24]  | |  \|_  _|.|_ _  _		
+[20:44:24]  | |__/|__(_|||_(_)|			
+[20:44:24]  
+[20:44:24] TDEditor V1.17 by adri1
+[20:44:24] TDEditor loaded
+[20:44:24]  
+[20:44:24]   Loaded 1 filterscripts.
+
+[20:44:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:44:24] 
+----------------------------------
+[20:44:24]   Bare Script
+
+[20:44:24] ----------------------------------
+
+[20:44:24] Number of vehicle models: 0
+[20:45:04] [connection] 127.0.0.1:58426 requests connection cookie.
+[20:45:05] [connection] incoming connection: 127.0.0.1:58426 id: 0
+[20:45:05] [join] Hunriel_Blinders has joined the server (0:127.0.0.1)
+[20:55:27] [part] Hunriel_Blinders has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:50:01] 
+[20:50:01] Server Plugins
+[20:50:01] --------------
+[20:50:01]  Loading plugin: sscanf
+[20:50:01] 
+
+[20:50:01]  ===============================
+
+[20:50:01]       sscanf plugin loaded.     
+
+[20:50:01]          Version:  2.8.3        
+
+[20:50:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:50:01]  ===============================
+
+[20:50:01]   Loaded.
+[20:50:01]  Loading plugin: TDE
+[20:50:01] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:50:01]   Loaded.
+[20:50:01]  Loaded 2 plugins.
+
+[20:50:01] 
+[20:50:01] Filterscripts
+[20:50:01] ---------------
+[20:50:01]   Loading filterscript 'TDE.amx'...
+[20:50:01]  
+[20:50:01]  
+[20:50:01]  
+[20:50:01]  
+[20:50:01] ___ __  __
+[20:50:01]  | |  \|_  _|.|_ _  _		
+[20:50:01]  | |__/|__(_|||_(_)|			
+[20:50:01]  
+[20:50:01] TDEditor V1.17 by adri1
+[20:50:01] TDEditor loaded
+[20:50:01]  
+[20:50:01]   Loaded 1 filterscripts.
+
+[20:50:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:50:01] 
+----------------------------------
+[20:50:01]   Bare Script
+
+[20:50:01] ----------------------------------
+
+[20:50:01] Number of vehicle models: 0
+[20:50:36] [connection] 127.0.0.1:54879 requests connection cookie.
+[20:50:37] [connection] incoming connection: 127.0.0.1:54879 id: 0
+[20:50:38] [join] DollynhO has joined the server (0:127.0.0.1)
+[21:00:51] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:28:57] 
+[14:28:57] Server Plugins
+[14:28:57] --------------
+[14:28:57]  Loading plugin: sscanf
+[14:28:57] 
+
+[14:28:57]  ===============================
+
+[14:28:57]       sscanf plugin loaded.     
+
+[14:28:57]          Version:  2.8.3        
+
+[14:28:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:28:57]  ===============================
+
+[14:28:57]   Loaded.
+[14:28:57]  Loading plugin: TDE
+[14:28:57] 
+TDEditor Plugin loaded, thank you for using.
+
+[14:28:57]   Loaded.
+[14:28:57]  Loaded 2 plugins.
+
+[14:28:57] 
+[14:28:57] Filterscripts
+[14:28:57] ---------------
+[14:28:57]   Loading filterscript 'TDE.amx'...
+[14:28:57]  
+[14:28:57]  
+[14:28:57]  
+[14:28:57]  
+[14:28:57] ___ __  __
+[14:28:57]  | |  \|_  _|.|_ _  _		
+[14:28:57]  | |__/|__(_|||_(_)|			
+[14:28:57]  
+[14:28:57] TDEditor V1.17 by adri1
+[14:28:57] TDEditor loaded
+[14:28:57]  
+[14:28:57]   Loaded 1 filterscripts.
+
+[14:28:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:28:57] 
+----------------------------------
+[14:28:57]   Bare Script
+
+[14:28:57] ----------------------------------
+
+[14:28:57] Number of vehicle models: 0
+[14:29:30] [connection] 127.0.0.1:61433 requests connection cookie.
+[14:29:31] [connection] incoming connection: 127.0.0.1:61433 id: 0
+[14:29:31] [join] DollynhO has joined the server (0:127.0.0.1)
+[14:34:21] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:54] 
+[15:57:54] Server Plugins
+[15:57:54] --------------
+[15:57:54]  Loading plugin: sscanf
+[15:57:54] 
+
+[15:57:54]  ===============================
+
+[15:57:54]       sscanf plugin loaded.     
+
+[15:57:54]          Version:  2.8.3        
+
+[15:57:54]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:57:54]  ===============================
+
+[15:57:54]   Loaded.
+[15:57:54]  Loading plugin: TDE
+[15:57:54] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:57:54]   Loaded.
+[15:57:54]  Loaded 2 plugins.
+
+[15:57:54] 
+[15:57:54] Filterscripts
+[15:57:54] ---------------
+[15:57:54]   Loading filterscript 'TDE.amx'...
+[15:57:55]  
+[15:57:55]  
+[15:57:55]  
+[15:57:55]  
+[15:57:55] ___ __  __
+[15:57:55]  | |  \|_  _|.|_ _  _		
+[15:57:55]  | |__/|__(_|||_(_)|			
+[15:57:55]  
+[15:57:55] TDEditor V1.17 by adri1
+[15:57:55] TDEditor loaded
+[15:57:55]  
+[15:57:55]   Loaded 1 filterscripts.
+
+[15:57:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:57:55] 
+----------------------------------
+[15:57:55]   Bare Script
+
+[15:57:55] ----------------------------------
+
+[15:57:55] Number of vehicle models: 0
+[15:57:56] [connection] 127.0.0.1:56728 requests connection cookie.
+[15:57:57] [connection] incoming connection: 127.0.0.1:56728 id: 0
+[15:57:57] [join] Tavares has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:36:14] 
+[16:36:14] Server Plugins
+[16:36:14] --------------
+[16:36:14]  Loading plugin: sscanf
+[16:36:14] 
+
+[16:36:14]  ===============================
+
+[16:36:14]       sscanf plugin loaded.     
+
+[16:36:14]          Version:  2.8.3        
+
+[16:36:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:36:14]  ===============================
+
+[16:36:14]   Loaded.
+[16:36:14]  Loading plugin: TDE
+[16:36:14] 
+TDEditor Plugin loaded, thank you for using.
+
+[16:36:14]   Loaded.
+[16:36:14]  Loaded 2 plugins.
+
+[16:36:14] 
+[16:36:14] Filterscripts
+[16:36:14] ---------------
+[16:36:14]   Loading filterscript 'TDE.amx'...
+[16:36:14]  
+[16:36:14]  
+[16:36:14]  
+[16:36:14]  
+[16:36:14] ___ __  __
+[16:36:14]  | |  \|_  _|.|_ _  _		
+[16:36:14]  | |__/|__(_|||_(_)|			
+[16:36:14]  
+[16:36:14] TDEditor V1.17 by adri1
+[16:36:14] TDEditor loaded
+[16:36:14]  
+[16:36:14]   Loaded 1 filterscripts.
+
+[16:36:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:36:14] 
+----------------------------------
+[16:36:14]   Bare Script
+
+[16:36:14] ----------------------------------
+
+[16:36:14] Number of vehicle models: 0
+[16:36:23] [connection] 127.0.0.1:58209 requests connection cookie.
+[16:36:24] [connection] incoming connection: 127.0.0.1:58209 id: 0
+[16:36:24] [join] Tavares has joined the server (0:127.0.0.1)
+[16:54:53] [part] Tavares has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:21:26] 
+[11:21:26] Server Plugins
+[11:21:26] --------------
+[11:21:26]  Loading plugin: sscanf
+[11:21:26] 
+
+[11:21:26]  ===============================
+
+[11:21:26]       sscanf plugin loaded.     
+
+[11:21:26]          Version:  2.8.3        
+
+[11:21:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:21:26]  ===============================
+
+[11:21:26]   Loaded.
+[11:21:26]  Loading plugin: TDE
+[11:21:26] 
+TDEditor Plugin loaded, thank you for using.
+
+[11:21:26]   Loaded.
+[11:21:26]  Loaded 2 plugins.
+
+[11:21:26] 
+[11:21:26] Filterscripts
+[11:21:26] ---------------
+[11:21:26]   Loading filterscript 'TDE.amx'...
+[11:21:26]  
+[11:21:26]  
+[11:21:26]  
+[11:21:26]  
+[11:21:26] ___ __  __
+[11:21:26]  | |  \|_  _|.|_ _  _		
+[11:21:26]  | |__/|__(_|||_(_)|			
+[11:21:26]  
+[11:21:26] TDEditor V1.17 by adri1
+[11:21:26] TDEditor loaded
+[11:21:26]  
+[11:21:26]   Loaded 1 filterscripts.
+
+[11:21:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:21:26] 
+----------------------------------
+[11:21:26]   Bare Script
+
+[11:21:26] ----------------------------------
+
+[11:21:26] Number of vehicle models: 0
+[11:21:27] [connection] 127.0.0.1:60997 requests connection cookie.
+[11:21:28] [connection] incoming connection: 127.0.0.1:60997 id: 0
+[11:21:28] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:50:39] 
+[08:50:39] Server Plugins
+[08:50:39] --------------
+[08:50:39]  Loading plugin: sscanf
+[08:50:39] 
+
+[08:50:39]  ===============================
+
+[08:50:39]       sscanf plugin loaded.     
+
+[08:50:39]          Version:  2.8.3        
+
+[08:50:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:50:39]  ===============================
+
+[08:50:39]   Loaded.
+[08:50:39]  Loading plugin: TDE
+[08:50:39] 
+TDEditor Plugin loaded, thank you for using.
+
+[08:50:39]   Loaded.
+[08:50:39]  Loaded 2 plugins.
+
+[08:50:39] 
+[08:50:39] Filterscripts
+[08:50:39] ---------------
+[08:50:39]   Loading filterscript 'TDE.amx'...
+[08:50:39]  
+[08:50:39]  
+[08:50:39]  
+[08:50:39]  
+[08:50:39] ___ __  __
+[08:50:39]  | |  \|_  _|.|_ _  _		
+[08:50:39]  | |__/|__(_|||_(_)|			
+[08:50:39]  
+[08:50:39] TDEditor V1.17 by adri1
+[08:50:39] TDEditor loaded
+[08:50:39]  
+[08:50:39]   Loaded 1 filterscripts.
+
+[08:50:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[08:50:39] 
+----------------------------------
+[08:50:39]   Bare Script
+
+[08:50:39] ----------------------------------
+
+[08:50:39] Number of vehicle models: 0
+[08:51:44] [connection] 127.0.0.1:50025 requests connection cookie.
+[08:51:45] [connection] incoming connection: 127.0.0.1:50025 id: 0
+[08:51:45] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:25:25] 
+[09:25:25] Server Plugins
+[09:25:25] --------------
+[09:25:25]  Loading plugin: sscanf
+[09:25:25] 
+
+[09:25:25]  ===============================
+
+[09:25:25]       sscanf plugin loaded.     
+
+[09:25:25]          Version:  2.8.3        
+
+[09:25:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:25:25]  ===============================
+
+[09:25:25]   Loaded.
+[09:25:25]  Loading plugin: TDE
+[09:25:25] 
+TDEditor Plugin loaded, thank you for using.
+
+[09:25:26]   Loaded.
+[09:25:26]  Loaded 2 plugins.
+
+[09:25:26] 
+[09:25:26] Filterscripts
+[09:25:26] ---------------
+[09:25:26]   Loading filterscript 'TDE.amx'...
+[09:25:26]  
+[09:25:26]  
+[09:25:26]  
+[09:25:26]  
+[09:25:26] ___ __  __
+[09:25:26]  | |  \|_  _|.|_ _  _		
+[09:25:26]  | |__/|__(_|||_(_)|			
+[09:25:26]  
+[09:25:26] TDEditor V1.17 by adri1
+[09:25:26] TDEditor loaded
+[09:25:26]  
+[09:25:26]   Loaded 1 filterscripts.
+
+[09:25:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:25:26] 
+----------------------------------
+[09:25:26]   Bare Script
+
+[09:25:26] ----------------------------------
+
+[09:25:26] Number of vehicle models: 0
+[09:25:28] [connection] 127.0.0.1:53012 requests connection cookie.
+[09:25:29] [connection] incoming connection: 127.0.0.1:53012 id: 0
+[09:25:29] [join] DollynhO has joined the server (0:127.0.0.1)
+[09:26:16] [part] DollynhO has left the server (0:1)
+[09:26:59] [connection] 127.0.0.1:53639 requests connection cookie.
+[09:27:00] [connection] incoming connection: 127.0.0.1:53639 id: 0
+[09:27:00] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:29:36] 
+[09:29:36] Server Plugins
+[09:29:36] --------------
+[09:29:36]  Loading plugin: sscanf
+[09:29:36] 
+
+[09:29:36]  ===============================
+
+[09:29:36]       sscanf plugin loaded.     
+
+[09:29:36]          Version:  2.8.3        
+
+[09:29:36]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:29:36]  ===============================
+
+[09:29:36]   Loaded.
+[09:29:36]  Loading plugin: TDE
+[09:29:36] 
+TDEditor Plugin loaded, thank you for using.
+
+[09:29:36]   Loaded.
+[09:29:36]  Loaded 2 plugins.
+
+[09:29:36] 
+[09:29:36] Filterscripts
+[09:29:36] ---------------
+[09:29:36]   Loading filterscript 'TDE.amx'...
+[09:29:36]  
+[09:29:36]  
+[09:29:36]  
+[09:29:36]  
+[09:29:36] ___ __  __
+[09:29:36]  | |  \|_  _|.|_ _  _		
+[09:29:36]  | |__/|__(_|||_(_)|			
+[09:29:36]  
+[09:29:36] TDEditor V1.17 by adri1
+[09:29:36] TDEditor loaded
+[09:29:36]  
+[09:29:36]   Loaded 1 filterscripts.
+
+[09:29:36] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[09:29:36] 
+----------------------------------
+[09:29:36]   Bare Script
+
+[09:29:36] ----------------------------------
+
+[09:29:36] Number of vehicle models: 0
+[09:30:31] [connection] 127.0.0.1:54131 requests connection cookie.
+[09:30:32] [connection] incoming connection: 127.0.0.1:54131 id: 0
+[09:30:32] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:54:48] 
+[10:54:48] Server Plugins
+[10:54:48] --------------
+[10:54:48]  Loading plugin: sscanf
+[10:54:48] 
+
+[10:54:48]  ===============================
+
+[10:54:48]       sscanf plugin loaded.     
+
+[10:54:48]          Version:  2.8.3        
+
+[10:54:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:54:48]  ===============================
+
+[10:54:48]   Loaded.
+[10:54:48]  Loading plugin: TDE
+[10:54:48] 
+TDEditor Plugin loaded, thank you for using.
+
+[10:54:48]   Loaded.
+[10:54:48]  Loaded 2 plugins.
+
+[10:54:48] 
+[10:54:48] Filterscripts
+[10:54:48] ---------------
+[10:54:48]   Loading filterscript 'TDE.amx'...
+[10:54:48]  
+[10:54:48]  
+[10:54:48]  
+[10:54:48]  
+[10:54:48] ___ __  __
+[10:54:48]  | |  \|_  _|.|_ _  _		
+[10:54:48]  | |__/|__(_|||_(_)|			
+[10:54:48]  
+[10:54:48] TDEditor V1.17 by adri1
+[10:54:48] TDEditor loaded
+[10:54:48]  
+[10:54:48]   Loaded 1 filterscripts.
+
+[10:54:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[10:54:48] 
+----------------------------------
+[10:54:48]   Bare Script
+
+[10:54:48] ----------------------------------
+
+[10:54:48] Number of vehicle models: 0
+[10:54:56] [connection] 127.0.0.1:52650 requests connection cookie.
+[10:54:57] [connection] incoming connection: 127.0.0.1:52650 id: 0
+[10:54:57] [join] DollynhO has joined the server (0:127.0.0.1)
+[11:00:30] [chat] [DollynhO]: E
+[11:09:57] [chat] [DollynhO]: G
+[11:14:21] [chat] [DollynhO]: G
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:30:24] 
+[12:30:24] Server Plugins
+[12:30:24] --------------
+[12:30:24]  Loading plugin: sscanf
+[12:30:24] 
+
+[12:30:24]  ===============================
+
+[12:30:24]       sscanf plugin loaded.     
+
+[12:30:24]          Version:  2.8.3        
+
+[12:30:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:30:24]  ===============================
+
+[12:30:24]   Loaded.
+[12:30:24]  Loading plugin: TDE
+[12:30:24] 
+TDEditor Plugin loaded, thank you for using.
+
+[12:30:24]   Loaded.
+[12:30:24]  Loaded 2 plugins.
+
+[12:30:24] 
+[12:30:24] Filterscripts
+[12:30:24] ---------------
+[12:30:24]   Loading filterscript 'TDE.amx'...
+[12:30:24]  
+[12:30:24]  
+[12:30:24]  
+[12:30:24]  
+[12:30:24] ___ __  __
+[12:30:24]  | |  \|_  _|.|_ _  _		
+[12:30:24]  | |__/|__(_|||_(_)|			
+[12:30:24]  
+[12:30:24] TDEditor V1.17 by adri1
+[12:30:24] TDEditor loaded
+[12:30:24]  
+[12:30:24]   Loading filterscript 'cameditor.amx'...
+[12:30:24] 
+--------------------------------------
+[12:30:24]  CamEditor by Drebin
+[12:30:24] --------------------------------------
+
+[12:30:24]   Loaded 2 filterscripts.
+
+[12:30:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:30:24] 
+----------------------------------
+[12:30:24]   Bare Script
+
+[12:30:24] ----------------------------------
+
+[12:30:24] Number of vehicle models: 0
+[12:30:41] [connection] 127.0.0.1:59938 requests connection cookie.
+[12:30:42] [connection] incoming connection: 127.0.0.1:59938 id: 0
+[12:30:43] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:10:08] 
+[15:10:08] Server Plugins
+[15:10:08] --------------
+[15:10:08]  Loading plugin: sscanf
+[15:10:08] 
+
+[15:10:08]  ===============================
+
+[15:10:08]       sscanf plugin loaded.     
+
+[15:10:08]          Version:  2.8.3        
+
+[15:10:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:10:08]  ===============================
+
+[15:10:08]   Loaded.
+[15:10:08]  Loading plugin: TDE
+[15:10:08] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:10:08]   Loaded.
+[15:10:08]  Loaded 2 plugins.
+
+[15:10:08] 
+[15:10:08] Filterscripts
+[15:10:08] ---------------
+[15:10:08]   Loading filterscript 'TDE.amx'...
+[15:10:08]  
+[15:10:08]  
+[15:10:08]  
+[15:10:08]  
+[15:10:08] ___ __  __
+[15:10:08]  | |  \|_  _|.|_ _  _		
+[15:10:08]  | |__/|__(_|||_(_)|			
+[15:10:08]  
+[15:10:08] TDEditor V1.17 by adri1
+[15:10:08] TDEditor loaded
+[15:10:08]  
+[15:10:08]   Loading filterscript 'cameditor.amx'...
+[15:10:08] 
+--------------------------------------
+[15:10:08]  CamEditor by Drebin
+[15:10:08] --------------------------------------
+
+[15:10:08]   Loaded 2 filterscripts.
+
+[15:10:08] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:10:08] 
+----------------------------------
+[15:10:08]   Bare Script
+
+[15:10:08] ----------------------------------
+
+[15:10:08] Number of vehicle models: 0
+[15:10:17] [connection] 127.0.0.1:53915 requests connection cookie.
+[15:10:18] [connection] incoming connection: 127.0.0.1:53915 id: 0
+[15:10:18] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:21] 
+[15:21:21] Server Plugins
+[15:21:21] --------------
+[15:21:21]  Loading plugin: sscanf
+[15:21:21] 
+
+[15:21:21]  ===============================
+
+[15:21:21]       sscanf plugin loaded.     
+
+[15:21:21]          Version:  2.8.3        
+
+[15:21:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:21:21]  ===============================
+
+[15:21:21]   Loaded.
+[15:21:21]  Loading plugin: TDE
+[15:21:21] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:21:21]   Loaded.
+[15:21:21]  Loaded 2 plugins.
+
+[15:21:21] 
+[15:21:21] Filterscripts
+[15:21:21] ---------------
+[15:21:21]   Loading filterscript 'TDE.amx'...
+[15:21:21]  
+[15:21:21]  
+[15:21:21]  
+[15:21:21]  
+[15:21:21] ___ __  __
+[15:21:21]  | |  \|_  _|.|_ _  _		
+[15:21:21]  | |__/|__(_|||_(_)|			
+[15:21:21]  
+[15:21:21] TDEditor V1.17 by adri1
+[15:21:21] TDEditor loaded
+[15:21:21]  
+[15:21:21]   Loading filterscript 'cameditor.amx'...
+[15:21:21] 
+--------------------------------------
+[15:21:21]  CamEditor by Drebin
+[15:21:21] --------------------------------------
+
+[15:21:21]   Loaded 2 filterscripts.
+
+[15:21:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:21:21] 
+----------------------------------
+[15:21:21]   Bare Script
+
+[15:21:21] ----------------------------------
+
+[15:21:21] Number of vehicle models: 0
+[15:21:22] [connection] 127.0.0.1:64669 requests connection cookie.
+[15:21:23] [connection] incoming connection: 127.0.0.1:64669 id: 0
+[15:21:23] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:11] 
+[15:38:11] Server Plugins
+[15:38:11] --------------
+[15:38:11]  Loading plugin: sscanf
+[15:38:11] 
+
+[15:38:11]  ===============================
+
+[15:38:11]       sscanf plugin loaded.     
+
+[15:38:11]          Version:  2.8.3        
+
+[15:38:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:11]  ===============================
+
+[15:38:11]   Loaded.
+[15:38:11]  Loading plugin: TDE
+[15:38:11] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:38:11]   Loaded.
+[15:38:11]  Loaded 2 plugins.
+
+[15:38:11] 
+[15:38:11] Filterscripts
+[15:38:11] ---------------
+[15:38:11]   Loading filterscript 'TDE.amx'...
+[15:38:11]  
+[15:38:11]  
+[15:38:11]  
+[15:38:11]  
+[15:38:11] ___ __  __
+[15:38:11]  | |  \|_  _|.|_ _  _		
+[15:38:11]  | |__/|__(_|||_(_)|			
+[15:38:11]  
+[15:38:11] TDEditor V1.17 by adri1
+[15:38:11] TDEditor loaded
+[15:38:11]  
+[15:38:11]   Loading filterscript 'cameditor.amx'...
+[15:38:11] 
+--------------------------------------
+[15:38:11]  CamEditor by Drebin
+[15:38:11] --------------------------------------
+
+[15:38:11]   Loaded 2 filterscripts.
+
+[15:38:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:38:11] 
+----------------------------------
+[15:38:11]   Bare Script
+
+[15:38:11] ----------------------------------
+
+[15:38:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:16] 
+[15:38:16] Server Plugins
+[15:38:16] --------------
+[15:38:16]  Loading plugin: sscanf
+[15:38:16] 
+
+[15:38:16]  ===============================
+
+[15:38:16]       sscanf plugin loaded.     
+
+[15:38:16]          Version:  2.8.3        
+
+[15:38:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:16]  ===============================
+
+[15:38:16]   Loaded.
+[15:38:16]  Loading plugin: TDE
+[15:38:16] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:38:16]   Loaded.
+[15:38:16]  Loaded 2 plugins.
+
+[15:38:16] 
+[15:38:16] Filterscripts
+[15:38:16] ---------------
+[15:38:16]   Loading filterscript 'TDE.amx'...
+[15:38:16]  
+[15:38:16]  
+[15:38:16]  
+[15:38:16]  
+[15:38:16] ___ __  __
+[15:38:16]  | |  \|_  _|.|_ _  _		
+[15:38:16]  | |__/|__(_|||_(_)|			
+[15:38:16]  
+[15:38:16] TDEditor V1.17 by adri1
+[15:38:16] TDEditor loaded
+[15:38:16]  
+[15:38:16]   Loading filterscript 'cameditor.amx'...
+[15:38:16] 
+--------------------------------------
+[15:38:16]  CamEditor by Drebin
+[15:38:16] --------------------------------------
+
+[15:38:16]   Loaded 2 filterscripts.
+
+[15:38:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:38:16] 
+----------------------------------
+[15:38:16]   Bare Script
+
+[15:38:16] ----------------------------------
+
+[15:38:16] Number of vehicle models: 0
+[15:38:31] [connection] 127.0.0.1:61209 requests connection cookie.
+[15:38:32] [connection] incoming connection: 127.0.0.1:61209 id: 0
+[15:38:32] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:59:27] 
+[19:59:27] Server Plugins
+[19:59:27] --------------
+[19:59:27]  Loading plugin: sscanf
+[19:59:27] 
+
+[19:59:27]  ===============================
+
+[19:59:27]       sscanf plugin loaded.     
+
+[19:59:27]          Version:  2.8.3        
+
+[19:59:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:59:27]  ===============================
+
+[19:59:27]   Loaded.
+[19:59:27]  Loading plugin: TDE
+[19:59:28] 
+TDEditor Plugin loaded, thank you for using.
+
+[19:59:28]   Loaded.
+[19:59:28]  Loaded 2 plugins.
+
+[19:59:28] 
+[19:59:28] Filterscripts
+[19:59:28] ---------------
+[19:59:28]   Loading filterscript 'TDE.amx'...
+[19:59:28]  
+[19:59:28]  
+[19:59:28]  
+[19:59:28]  
+[19:59:28] ___ __  __
+[19:59:28]  | |  \|_  _|.|_ _  _		
+[19:59:28]  | |__/|__(_|||_(_)|			
+[19:59:28]  
+[19:59:28] TDEditor V1.17 by adri1
+[19:59:28] TDEditor loaded
+[19:59:28]  
+[19:59:28]   Loading filterscript 'cameditor.amx'...
+[19:59:28] 
+--------------------------------------
+[19:59:28]  CamEditor by Drebin
+[19:59:28] --------------------------------------
+
+[19:59:28]   Loaded 2 filterscripts.
+
+[19:59:28] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:59:28] 
+----------------------------------
+[19:59:28]   Bare Script
+
+[19:59:28] ----------------------------------
+
+[19:59:28] Number of vehicle models: 0
+[19:59:53] [connection] 127.0.0.1:59284 requests connection cookie.
+[19:59:54] [connection] incoming connection: 127.0.0.1:59284 id: 0
+[19:59:54] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:40:41] 
+[17:40:41] Server Plugins
+[17:40:41] --------------
+[17:40:41]  Loading plugin: sscanf
+[17:40:41] 
+
+[17:40:41]  ===============================
+
+[17:40:41]       sscanf plugin loaded.     
+
+[17:40:41]          Version:  2.8.3        
+
+[17:40:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:40:41]  ===============================
+
+[17:40:41]   Loaded.
+[17:40:41]  Loading plugin: TDE
+[17:40:41] 
+TDEditor Plugin loaded, thank you for using.
+
+[17:40:41]   Loaded.
+[17:40:41]  Loaded 2 plugins.
+
+[17:40:41] 
+[17:40:41] Filterscripts
+[17:40:41] ---------------
+[17:40:41]   Loading filterscript 'TDE.amx'...
+[17:40:41]  
+[17:40:41]  
+[17:40:41]  
+[17:40:41]  
+[17:40:41] ___ __  __
+[17:40:41]  | |  \|_  _|.|_ _  _		
+[17:40:41]  | |__/|__(_|||_(_)|			
+[17:40:41]  
+[17:40:41] TDEditor V1.17 by adri1
+[17:40:41] TDEditor loaded
+[17:40:41]  
+[17:40:41]   Loading filterscript 'cameditor.amx'...
+[17:40:41] 
+--------------------------------------
+[17:40:41]  CamEditor by Drebin
+[17:40:41] --------------------------------------
+
+[17:40:41]   Loaded 2 filterscripts.
+
+[17:40:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:40:41] 
+----------------------------------
+[17:40:41]   Bare Script
+
+[17:40:41] ----------------------------------
+
+[17:40:41] Number of vehicle models: 0
+[17:51:44] [connection] 127.0.0.1:49790 requests connection cookie.
+[17:51:45] [connection] incoming connection: 127.0.0.1:49790 id: 0
+[17:51:45] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:49] 
+[21:57:49] Server Plugins
+[21:57:49] --------------
+[21:57:49]  Loading plugin: sscanf
+[21:57:49] 
+
+[21:57:49]  ===============================
+
+[21:57:49]       sscanf plugin loaded.     
+
+[21:57:49]          Version:  2.8.3        
+
+[21:57:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:57:49]  ===============================
+
+[21:57:49]   Loaded.
+[21:57:49]  Loading plugin: TDE
+[21:57:49] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:57:49]   Loaded.
+[21:57:49]  Loaded 2 plugins.
+
+[21:57:49] 
+[21:57:49] Filterscripts
+[21:57:49] ---------------
+[21:57:49]   Loading filterscript 'TDE.amx'...
+[21:57:49]  
+[21:57:49]  
+[21:57:49]  
+[21:57:49]  
+[21:57:49] ___ __  __
+[21:57:49]  | |  \|_  _|.|_ _  _		
+[21:57:49]  | |__/|__(_|||_(_)|			
+[21:57:49]  
+[21:57:49] TDEditor V1.17 by adri1
+[21:57:49] TDEditor loaded
+[21:57:49]  
+[21:57:49]   Loading filterscript 'cameditor.amx'...
+[21:57:49] 
+--------------------------------------
+[21:57:49]  CamEditor by Drebin
+[21:57:49] --------------------------------------
+
+[21:57:49]   Loaded 2 filterscripts.
+
+[21:57:49] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:57:49] 
+----------------------------------
+[21:57:49]   Bare Script
+
+[21:57:49] ----------------------------------
+
+[21:57:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:33:18] 
+[00:33:18] Server Plugins
+[00:33:18] --------------
+[00:33:18]  Loading plugin: sscanf
+[00:33:19] 
+
+[00:33:19]  ===============================
+
+[00:33:19]       sscanf plugin loaded.     
+
+[00:33:19]          Version:  2.8.3        
+
+[00:33:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:33:19]  ===============================
+
+[00:33:19]   Loaded.
+[00:33:19]  Loading plugin: TDE
+[00:33:20] 
+TDEditor Plugin loaded, thank you for using.
+
+[00:33:20]   Loaded.
+[00:33:20]  Loaded 2 plugins.
+
+[00:33:20] 
+[00:33:20] Filterscripts
+[00:33:20] ---------------
+[00:33:20]   Loading filterscript 'TDE.amx'...
+[00:33:20]  
+[00:33:20]  
+[00:33:20]  
+[00:33:20]  
+[00:33:20] ___ __  __
+[00:33:20]  | |  \|_  _|.|_ _  _		
+[00:33:20]  | |__/|__(_|||_(_)|			
+[00:33:20]  
+[00:33:20] TDEditor V1.17 by adri1
+[00:33:20] TDEditor loaded
+[00:33:20]  
+[00:33:20]   Loading filterscript 'cameditor.amx'...
+[00:33:20] 
+--------------------------------------
+[00:33:20]  CamEditor by Drebin
+[00:33:20] --------------------------------------
+
+[00:33:20]   Loaded 2 filterscripts.
+
+[00:33:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:33:20] 
+----------------------------------
+[00:33:20]   Bare Script
+
+[00:33:20] ----------------------------------
+
+[00:33:20] Number of vehicle models: 0
+[00:33:43] [connection] 127.0.0.1:53713 requests connection cookie.
+[00:33:44] [connection] incoming connection: 127.0.0.1:53713 id: 0
+[00:33:44] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[01:13:41] 
+[01:13:41] Server Plugins
+[01:13:41] --------------
+[01:13:41]  Loading plugin: sscanf
+[01:13:41] 
+
+[01:13:41]  ===============================
+
+[01:13:41]       sscanf plugin loaded.     
+
+[01:13:41]          Version:  2.8.3        
+
+[01:13:41]   (c) 2018 Alex "Y_Less" Cole  
+
+[01:13:41]  ===============================
+
+[01:13:41]   Loaded.
+[01:13:41]  Loading plugin: TDE
+[01:13:41] 
+TDEditor Plugin loaded, thank you for using.
+
+[01:13:41]   Loaded.
+[01:13:41]  Loaded 2 plugins.
+
+[01:13:41] 
+[01:13:41] Filterscripts
+[01:13:41] ---------------
+[01:13:41]   Loading filterscript 'TDE.amx'...
+[01:13:41]  
+[01:13:41]  
+[01:13:41]  
+[01:13:41]  
+[01:13:41] ___ __  __
+[01:13:41]  | |  \|_  _|.|_ _  _		
+[01:13:41]  | |__/|__(_|||_(_)|			
+[01:13:41]  
+[01:13:41] TDEditor V1.17 by adri1
+[01:13:41] TDEditor loaded
+[01:13:41]  
+[01:13:41]   Loading filterscript 'cameditor.amx'...
+[01:13:41] 
+--------------------------------------
+[01:13:41]  CamEditor by Drebin
+[01:13:41] --------------------------------------
+
+[01:13:41]   Loaded 2 filterscripts.
+
+[01:13:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[01:13:41] 
+----------------------------------
+[01:13:41]   Bare Script
+
+[01:13:41] ----------------------------------
+
+[01:13:41] Number of vehicle models: 0
+[01:14:33] [connection] 127.0.0.1:58220 requests connection cookie.
+[01:14:34] [connection] incoming connection: 127.0.0.1:58220 id: 0
+[01:14:35] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:55:33] 
+[12:55:33] Server Plugins
+[12:55:33] --------------
+[12:55:33]  Loading plugin: sscanf
+[12:55:33] 
+
+[12:55:33]  ===============================
+
+[12:55:33]       sscanf plugin loaded.     
+
+[12:55:33]          Version:  2.8.3        
+
+[12:55:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:55:33]  ===============================
+
+[12:55:33]   Loaded.
+[12:55:33]  Loading plugin: TDE
+[12:55:33] 
+TDEditor Plugin loaded, thank you for using.
+
+[12:55:33]   Loaded.
+[12:55:33]  Loaded 2 plugins.
+
+[12:55:33] 
+[12:55:33] Filterscripts
+[12:55:33] ---------------
+[12:55:33]   Loading filterscript 'TDE.amx'...
+[12:55:33]  
+[12:55:33]  
+[12:55:33]  
+[12:55:33]  
+[12:55:33] ___ __  __
+[12:55:33]  | |  \|_  _|.|_ _  _		
+[12:55:33]  | |__/|__(_|||_(_)|			
+[12:55:33]  
+[12:55:33] TDEditor V1.17 by adri1
+[12:55:33] TDEditor loaded
+[12:55:33]  
+[12:55:33]   Loading filterscript 'cameditor.amx'...
+[12:55:33] 
+--------------------------------------
+[12:55:33]  CamEditor by Drebin
+[12:55:33] --------------------------------------
+
+[12:55:33]   Loaded 2 filterscripts.
+
+[12:55:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:55:33] 
+----------------------------------
+[12:55:33]   Bare Script
+
+[12:55:33] ----------------------------------
+
+[12:55:33] Number of vehicle models: 0
+[12:56:48] [connection] 127.0.0.1:56753 requests connection cookie.
+[12:56:49] [connection] incoming connection: 127.0.0.1:56753 id: 0
+[12:56:49] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:44:37] 
+[13:44:37] Server Plugins
+[13:44:37] --------------
+[13:44:37]  Loading plugin: sscanf
+[13:44:37] 
+
+[13:44:37]  ===============================
+
+[13:44:37]       sscanf plugin loaded.     
+
+[13:44:37]          Version:  2.8.3        
+
+[13:44:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:44:37]  ===============================
+
+[13:44:37]   Loaded.
+[13:44:37]  Loading plugin: TDE
+[13:44:37] 
+TDEditor Plugin loaded, thank you for using.
+
+[13:44:37]   Loaded.
+[13:44:37]  Loaded 2 plugins.
+
+[13:44:37] 
+[13:44:37] Filterscripts
+[13:44:37] ---------------
+[13:44:37]   Loading filterscript 'TDE.amx'...
+[13:44:37]  
+[13:44:37]  
+[13:44:37]  
+[13:44:37]  
+[13:44:37] ___ __  __
+[13:44:37]  | |  \|_  _|.|_ _  _		
+[13:44:37]  | |__/|__(_|||_(_)|			
+[13:44:37]  
+[13:44:37] TDEditor V1.17 by adri1
+[13:44:37] TDEditor loaded
+[13:44:37]  
+[13:44:37]   Loading filterscript 'cameditor.amx'...
+[13:44:37] 
+--------------------------------------
+[13:44:37]  CamEditor by Drebin
+[13:44:37] --------------------------------------
+
+[13:44:37]   Loaded 2 filterscripts.
+
+[13:44:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:44:37] 
+----------------------------------
+[13:44:37]   Bare Script
+
+[13:44:37] ----------------------------------
+
+[13:44:37] Number of vehicle models: 0
+[13:44:49] [connection] 127.0.0.1:52260 requests connection cookie.
+[13:44:50] [connection] incoming connection: 127.0.0.1:52260 id: 0
+[13:44:51] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:00:28] 
+[18:00:28] Server Plugins
+[18:00:28] --------------
+[18:00:28]  Loading plugin: sscanf
+[18:00:28] 
+
+[18:00:28]  ===============================
+
+[18:00:28]       sscanf plugin loaded.     
+
+[18:00:28]          Version:  2.8.3        
+
+[18:00:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:00:28]  ===============================
+
+[18:00:28]   Loaded.
+[18:00:28]  Loading plugin: TDE
+[18:00:28] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:00:28]   Loaded.
+[18:00:28]  Loaded 2 plugins.
+
+[18:00:28] 
+[18:00:28] Filterscripts
+[18:00:28] ---------------
+[18:00:28]   Loading filterscript 'TDE.amx'...
+[18:00:28]  
+[18:00:28]  
+[18:00:28]  
+[18:00:28]  
+[18:00:28] ___ __  __
+[18:00:28]  | |  \|_  _|.|_ _  _		
+[18:00:28]  | |__/|__(_|||_(_)|			
+[18:00:28]  
+[18:00:28] TDEditor V1.17 by adri1
+[18:00:28] TDEditor loaded
+[18:00:28]  
+[18:00:28]   Loading filterscript 'cameditor.amx'...
+[18:00:28] 
+--------------------------------------
+[18:00:28]  CamEditor by Drebin
+[18:00:28] --------------------------------------
+
+[18:00:28]   Loaded 2 filterscripts.
+
+[18:00:28] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:00:28] 
+----------------------------------
+[18:00:28]   Bare Script
+
+[18:00:28] ----------------------------------
+
+[18:00:28] Number of vehicle models: 0
+[18:00:39] [connection] 127.0.0.1:51235 requests connection cookie.
+[18:00:40] [connection] incoming connection: 127.0.0.1:51235 id: 0
+[18:00:40] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:20:01] 
+[18:20:01] Server Plugins
+[18:20:01] --------------
+[18:20:01]  Loading plugin: sscanf
+[18:20:01] 
+
+[18:20:01]  ===============================
+
+[18:20:01]       sscanf plugin loaded.     
+
+[18:20:01]          Version:  2.8.3        
+
+[18:20:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:20:01]  ===============================
+
+[18:20:01]   Loaded.
+[18:20:01]  Loading plugin: TDE
+[18:20:01] 
+TDEditor Plugin loaded, thank you for using.
+
+[18:20:01]   Loaded.
+[18:20:01]  Loaded 2 plugins.
+
+[18:20:01] 
+[18:20:01] Filterscripts
+[18:20:01] ---------------
+[18:20:01]   Loading filterscript 'TDE.amx'...
+[18:20:01]  
+[18:20:01]  
+[18:20:01]  
+[18:20:01]  
+[18:20:01] ___ __  __
+[18:20:01]  | |  \|_  _|.|_ _  _		
+[18:20:01]  | |__/|__(_|||_(_)|			
+[18:20:01]  
+[18:20:01] TDEditor V1.17 by adri1
+[18:20:01] TDEditor loaded
+[18:20:01]  
+[18:20:01]   Loading filterscript 'cameditor.amx'...
+[18:20:01] 
+--------------------------------------
+[18:20:01]  CamEditor by Drebin
+[18:20:01] --------------------------------------
+
+[18:20:01]   Loaded 2 filterscripts.
+
+[18:20:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:20:01] 
+----------------------------------
+[18:20:01]   Bare Script
+
+[18:20:01] ----------------------------------
+
+[18:20:01] Number of vehicle models: 0
+[18:20:20] [connection] 127.0.0.1:52192 requests connection cookie.
+[18:20:21] [connection] incoming connection: 127.0.0.1:52192 id: 0
+[18:20:21] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:03:00] 
+[21:03:00] Server Plugins
+[21:03:00] --------------
+[21:03:00]  Loading plugin: sscanf
+[21:03:00] 
+
+[21:03:00]  ===============================
+
+[21:03:00]       sscanf plugin loaded.     
+
+[21:03:00]          Version:  2.8.3        
+
+[21:03:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:03:00]  ===============================
+
+[21:03:00]   Loaded.
+[21:03:00]  Loading plugin: TDE
+[21:03:00] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:03:00]   Loaded.
+[21:03:00]  Loaded 2 plugins.
+
+[21:03:00] 
+[21:03:01] Filterscripts
+[21:03:01] ---------------
+[21:03:01]   Loading filterscript 'TDE.amx'...
+[21:03:01]  
+[21:03:01]  
+[21:03:01]  
+[21:03:01]  
+[21:03:01] ___ __  __
+[21:03:01]  | |  \|_  _|.|_ _  _		
+[21:03:01]  | |__/|__(_|||_(_)|			
+[21:03:01]  
+[21:03:01] TDEditor V1.17 by adri1
+[21:03:01] TDEditor loaded
+[21:03:01]  
+[21:03:01]   Loading filterscript 'cameditor.amx'...
+[21:03:01] 
+--------------------------------------
+[21:03:01]  CamEditor by Drebin
+[21:03:01] --------------------------------------
+
+[21:03:01]   Loaded 2 filterscripts.
+
+[21:03:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:03:01] 
+----------------------------------
+[21:03:01]   Bare Script
+
+[21:03:01] ----------------------------------
+
+[21:03:01] Number of vehicle models: 0
+[21:03:03] [connection] 127.0.0.1:50804 requests connection cookie.
+[21:03:04] [connection] incoming connection: 127.0.0.1:50804 id: 0
+[21:03:04] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:24:23] 
+[22:24:23] Server Plugins
+[22:24:23] --------------
+[22:24:23]  Loading plugin: sscanf
+[22:24:23] 
+
+[22:24:23]  ===============================
+
+[22:24:23]       sscanf plugin loaded.     
+
+[22:24:23]          Version:  2.8.3        
+
+[22:24:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:24:23]  ===============================
+
+[22:24:23]   Loaded.
+[22:24:23]  Loading plugin: TDE
+[22:24:23] 
+TDEditor Plugin loaded, thank you for using.
+
+[22:24:23]   Loaded.
+[22:24:23]  Loaded 2 plugins.
+
+[22:24:23] 
+[22:24:23] Filterscripts
+[22:24:23] ---------------
+[22:24:23]   Loading filterscript 'TDE.amx'...
+[22:24:23]  
+[22:24:23]  
+[22:24:23]  
+[22:24:23]  
+[22:24:23] ___ __  __
+[22:24:23]  | |  \|_  _|.|_ _  _		
+[22:24:23]  | |__/|__(_|||_(_)|			
+[22:24:23]  
+[22:24:23] TDEditor V1.17 by adri1
+[22:24:23] TDEditor loaded
+[22:24:23]  
+[22:24:23]   Loading filterscript 'cameditor.amx'...
+[22:24:23] 
+--------------------------------------
+[22:24:23]  CamEditor by Drebin
+[22:24:23] --------------------------------------
+
+[22:24:23]   Loaded 2 filterscripts.
+
+[22:24:23] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:24:23] 
+----------------------------------
+[22:24:23]   Bare Script
+
+[22:24:23] ----------------------------------
+
+[22:24:23] Number of vehicle models: 0
+[22:24:31] [connection] 127.0.0.1:53731 requests connection cookie.
+[22:24:32] [connection] incoming connection: 127.0.0.1:53731 id: 0
+[22:24:33] [join] DollynhO has joined the server (0:127.0.0.1)
+[22:28:08] [part] DollynhO has left the server (0:0)
+[22:29:24] [connection] 127.0.0.1:51770 requests connection cookie.
+[22:29:25] [connection] incoming connection: 127.0.0.1:51770 id: 0
+[22:29:25] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:48] 
+[15:22:48] Server Plugins
+[15:22:48] --------------
+[15:22:48]  Loading plugin: sscanf
+[15:22:48] 
+
+[15:22:48]  ===============================
+
+[15:22:48]       sscanf plugin loaded.     
+
+[15:22:48]          Version:  2.8.3        
+
+[15:22:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:22:48]  ===============================
+
+[15:22:48]   Loaded.
+[15:22:48]  Loading plugin: TDE
+[15:22:48] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:22:48]   Loaded.
+[15:22:48]  Loaded 2 plugins.
+
+[15:22:48] 
+[15:22:48] Filterscripts
+[15:22:48] ---------------
+[15:22:48]   Loading filterscript 'TDE.amx'...
+[15:22:48]  
+[15:22:48]  
+[15:22:48]  
+[15:22:48]  
+[15:22:48] ___ __  __
+[15:22:48]  | |  \|_  _|.|_ _  _		
+[15:22:48]  | |__/|__(_|||_(_)|			
+[15:22:48]  
+[15:22:48] TDEditor V1.17 by adri1
+[15:22:48] TDEditor loaded
+[15:22:48]  
+[15:22:48]   Loading filterscript 'cameditor.amx'...
+[15:22:48] 
+--------------------------------------
+[15:22:48]  CamEditor by Drebin
+[15:22:48] --------------------------------------
+
+[15:22:48]   Loaded 2 filterscripts.
+
+[15:22:48] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:22:48] 
+----------------------------------
+[15:22:48]   Bare Script
+
+[15:22:48] ----------------------------------
+
+[15:22:48] Number of vehicle models: 0
+[15:23:21] [connection] 127.0.0.1:57449 requests connection cookie.
+[15:23:22] [connection] incoming connection: 127.0.0.1:57449 id: 0
+[15:23:22] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:44] 
+[21:43:44] Server Plugins
+[21:43:44] --------------
+[21:43:44]  Loading plugin: sscanf
+[21:43:44] 
+
+[21:43:44]  ===============================
+
+[21:43:44]       sscanf plugin loaded.     
+
+[21:43:44]          Version:  2.8.3        
+
+[21:43:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:43:44]  ===============================
+
+[21:43:44]   Loaded.
+[21:43:44]  Loading plugin: TDE
+[21:43:44] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:43:44]   Loaded.
+[21:43:44]  Loaded 2 plugins.
+
+[21:43:44] 
+[21:43:44] Filterscripts
+[21:43:44] ---------------
+[21:43:44]   Loading filterscript 'TDE.amx'...
+[21:43:44]  
+[21:43:44]  
+[21:43:44]  
+[21:43:44]  
+[21:43:44] ___ __  __
+[21:43:44]  | |  \|_  _|.|_ _  _		
+[21:43:44]  | |__/|__(_|||_(_)|			
+[21:43:44]  
+[21:43:44] TDEditor V1.17 by adri1
+[21:43:44] TDEditor loaded
+[21:43:44]  
+[21:43:44]   Loading filterscript 'cameditor.amx'...
+[21:43:44] 
+--------------------------------------
+[21:43:44]  CamEditor by Drebin
+[21:43:44] --------------------------------------
+
+[21:43:44]   Loaded 2 filterscripts.
+
+[21:43:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:43:44] 
+----------------------------------
+[21:43:44]   Bare Script
+
+[21:43:44] ----------------------------------
+
+[21:43:44] Number of vehicle models: 0
+[21:44:19] [connection] 127.0.0.1:49779 requests connection cookie.
+[21:44:20] [connection] incoming connection: 127.0.0.1:49779 id: 0
+[21:44:20] [join] DollynhO has joined the server (0:127.0.0.1)
+[21:51:13] [chat] [DollynhO]: o
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:37:04] 
+[11:37:04] Server Plugins
+[11:37:04] --------------
+[11:37:04]  Loading plugin: sscanf
+[11:37:04] 
+
+[11:37:04]  ===============================
+
+[11:37:04]       sscanf plugin loaded.     
+
+[11:37:04]          Version:  2.8.3        
+
+[11:37:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:37:04]  ===============================
+
+[11:37:04]   Loaded.
+[11:37:04]  Loading plugin: TDE
+[11:37:04] 
+TDEditor Plugin loaded, thank you for using.
+
+[11:37:04]   Loaded.
+[11:37:04]  Loaded 2 plugins.
+
+[11:37:04] 
+[11:37:04] Filterscripts
+[11:37:04] ---------------
+[11:37:04]   Loading filterscript 'TDE.amx'...
+[11:37:04]  
+[11:37:04]  
+[11:37:04]  
+[11:37:04]  
+[11:37:04] ___ __  __
+[11:37:04]  | |  \|_  _|.|_ _  _		
+[11:37:04]  | |__/|__(_|||_(_)|			
+[11:37:04]  
+[11:37:04] TDEditor V1.17 by adri1
+[11:37:04] TDEditor loaded
+[11:37:04]  
+[11:37:04]   Loading filterscript 'cameditor.amx'...
+[11:37:04] 
+--------------------------------------
+[11:37:04]  CamEditor by Drebin
+[11:37:04] --------------------------------------
+
+[11:37:04]   Loaded 2 filterscripts.
+
+[11:37:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[11:37:04] 
+----------------------------------
+[11:37:04]   Bare Script
+
+[11:37:04] ----------------------------------
+
+[11:37:04] Number of vehicle models: 0
+[11:37:33] [connection] 127.0.0.1:58134 requests connection cookie.
+[11:37:34] [connection] incoming connection: 127.0.0.1:58134 id: 0
+[11:37:34] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:50:03] 
+[21:50:03] Server Plugins
+[21:50:03] --------------
+[21:50:03]  Loading plugin: sscanf
+[21:50:03] 
+
+[21:50:03]  ===============================
+
+[21:50:03]       sscanf plugin loaded.     
+
+[21:50:03]          Version:  2.8.3        
+
+[21:50:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:50:03]  ===============================
+
+[21:50:03]   Loaded.
+[21:50:03]  Loading plugin: TDE
+[21:50:03] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:50:03]   Loaded.
+[21:50:03]  Loaded 2 plugins.
+
+[21:50:03] 
+[21:50:03] Filterscripts
+[21:50:03] ---------------
+[21:50:03]   Loading filterscript 'TDE.amx'...
+[21:50:03]  
+[21:50:03]  
+[21:50:03]  
+[21:50:03]  
+[21:50:03] ___ __  __
+[21:50:03]  | |  \|_  _|.|_ _  _		
+[21:50:03]  | |__/|__(_|||_(_)|			
+[21:50:03]  
+[21:50:03] TDEditor V1.17 by adri1
+[21:50:03] TDEditor loaded
+[21:50:03]  
+[21:50:03]   Loading filterscript 'cameditor.amx'...
+[21:50:03] 
+--------------------------------------
+[21:50:03]  CamEditor by Drebin
+[21:50:03] --------------------------------------
+
+[21:50:03]   Loaded 2 filterscripts.
+
+[21:50:03] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:50:03] 
+----------------------------------
+[21:50:03]   Bare Script
+
+[21:50:03] ----------------------------------
+
+[21:50:03] Number of vehicle models: 0
+[21:51:12] [connection] 127.0.0.1:62256 requests connection cookie.
+[21:51:13] [connection] incoming connection: 127.0.0.1:62256 id: 0
+[21:51:13] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:42] 
+[21:54:42] Server Plugins
+[21:54:42] --------------
+[21:54:42]  Loading plugin: sscanf
+[21:54:42] 
+
+[21:54:42]  ===============================
+
+[21:54:42]       sscanf plugin loaded.     
+
+[21:54:42]          Version:  2.8.3        
+
+[21:54:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:54:42]  ===============================
+
+[21:54:42]   Loaded.
+[21:54:42]  Loading plugin: TDE
+[21:54:42] 
+TDEditor Plugin loaded, thank you for using.
+
+[21:54:42]   Loaded.
+[21:54:42]  Loaded 2 plugins.
+
+[21:54:42] 
+[21:54:42] Filterscripts
+[21:54:42] ---------------
+[21:54:42]   Loading filterscript 'TDE.amx'...
+[21:54:42]  
+[21:54:42]  
+[21:54:42]  
+[21:54:42]  
+[21:54:42] ___ __  __
+[21:54:42]  | |  \|_  _|.|_ _  _		
+[21:54:42]  | |__/|__(_|||_(_)|			
+[21:54:42]  
+[21:54:42] TDEditor V1.17 by adri1
+[21:54:42] TDEditor loaded
+[21:54:42]  
+[21:54:42]   Loading filterscript 'cameditor.amx'...
+[21:54:42] 
+--------------------------------------
+[21:54:42]  CamEditor by Drebin
+[21:54:42] --------------------------------------
+
+[21:54:42]   Loaded 2 filterscripts.
+
+[21:54:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:54:42] 
+----------------------------------
+[21:54:42]   Bare Script
+
+[21:54:42] ----------------------------------
+
+[21:54:42] Number of vehicle models: 0
+[21:54:53] [connection] 127.0.0.1:62818 requests connection cookie.
+[21:54:54] [connection] incoming connection: 127.0.0.1:62818 id: 0
+[21:54:54] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:15] 
+[00:01:15] Server Plugins
+[00:01:15] --------------
+[00:01:15]  Loading plugin: sscanf
+[00:01:15] 
+
+[00:01:15]  ===============================
+
+[00:01:15]       sscanf plugin loaded.     
+
+[00:01:15]          Version:  2.8.3        
+
+[00:01:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:01:15]  ===============================
+
+[00:01:15]   Loaded.
+[00:01:15]  Loading plugin: TDE
+[00:01:15] 
+TDEditor Plugin loaded, thank you for using.
+
+[00:01:15]   Loaded.
+[00:01:15]  Loaded 2 plugins.
+
+[00:01:15] 
+[00:01:15] Filterscripts
+[00:01:15] ---------------
+[00:01:15]   Loading filterscript 'TDE.amx'...
+[00:01:15]  
+[00:01:15]  
+[00:01:15]  
+[00:01:15]  
+[00:01:15] ___ __  __
+[00:01:15]  | |  \|_  _|.|_ _  _		
+[00:01:15]  | |__/|__(_|||_(_)|			
+[00:01:15]  
+[00:01:15] TDEditor V1.17 by adri1
+[00:01:15] TDEditor loaded
+[00:01:15]  
+[00:01:15]   Loading filterscript 'cameditor.amx'...
+[00:01:15] 
+--------------------------------------
+[00:01:15]  CamEditor by Drebin
+[00:01:15] --------------------------------------
+
+[00:01:15]   Loaded 2 filterscripts.
+
+[00:01:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:01:15] 
+----------------------------------
+[00:01:15]   Bare Script
+
+[00:01:15] ----------------------------------
+
+[00:01:15] Number of vehicle models: 0
+[00:01:59] [connection] 127.0.0.1:63894 requests connection cookie.
+[00:02:00] [connection] incoming connection: 127.0.0.1:63894 id: 0
+[00:02:00] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:35:09] 
+[14:35:09] Server Plugins
+[14:35:09] --------------
+[14:35:09]  Loading plugin: sscanf
+[14:35:09] 
+
+[14:35:09]  ===============================
+
+[14:35:09]       sscanf plugin loaded.     
+
+[14:35:09]          Version:  2.8.3        
+
+[14:35:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:35:09]  ===============================
+
+[14:35:09]   Loaded.
+[14:35:09]  Loading plugin: TDE
+[14:35:09] 
+TDEditor Plugin loaded, thank you for using.
+
+[14:35:09]   Loaded.
+[14:35:09]  Loaded 2 plugins.
+
+[14:35:09] 
+[14:35:09] Filterscripts
+[14:35:09] ---------------
+[14:35:09]   Loading filterscript 'TDE.amx'...
+[14:35:09]  
+[14:35:09]  
+[14:35:09]  
+[14:35:09]  
+[14:35:09] ___ __  __
+[14:35:09]  | |  \|_  _|.|_ _  _		
+[14:35:09]  | |__/|__(_|||_(_)|			
+[14:35:09]  
+[14:35:09] TDEditor V1.17 by adri1
+[14:35:09] TDEditor loaded
+[14:35:09]  
+[14:35:09]   Loading filterscript 'cameditor.amx'...
+[14:35:09] 
+--------------------------------------
+[14:35:09]  CamEditor by Drebin
+[14:35:09] --------------------------------------
+
+[14:35:09]   Loaded 2 filterscripts.
+
+[14:35:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:35:09] 
+----------------------------------
+[14:35:09]   Bare Script
+
+[14:35:09] ----------------------------------
+
+[14:35:09] Number of vehicle models: 0
+[14:35:44] [connection] 127.0.0.1:58590 requests connection cookie.
+[14:35:45] [connection] incoming connection: 127.0.0.1:58590 id: 0
+[14:35:45] [join] DollynhO has joined the server (0:127.0.0.1)
+[14:59:44] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:03:33] 
+[20:03:33] Server Plugins
+[20:03:33] --------------
+[20:03:33]  Loading plugin: sscanf
+[20:03:33] 
+
+[20:03:33]  ===============================
+
+[20:03:33]       sscanf plugin loaded.     
+
+[20:03:33]          Version:  2.8.3        
+
+[20:03:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:03:33]  ===============================
+
+[20:03:33]   Loaded.
+[20:03:33]  Loading plugin: TDE
+[20:03:33] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:03:33]   Loaded.
+[20:03:33]  Loaded 2 plugins.
+
+[20:03:33] 
+[20:03:33] Filterscripts
+[20:03:33] ---------------
+[20:03:33]   Loading filterscript 'TDE.amx'...
+[20:03:33]  
+[20:03:33]  
+[20:03:33]  
+[20:03:33]  
+[20:03:33] ___ __  __
+[20:03:33]  | |  \|_  _|.|_ _  _		
+[20:03:33]  | |__/|__(_|||_(_)|			
+[20:03:33]  
+[20:03:33] TDEditor V1.17 by adri1
+[20:03:33] TDEditor loaded
+[20:03:33]  
+[20:03:33]   Loading filterscript 'cameditor.amx'...
+[20:03:33] 
+--------------------------------------
+[20:03:33]  CamEditor by Drebin
+[20:03:33] --------------------------------------
+
+[20:03:33]   Loaded 2 filterscripts.
+
+[20:03:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:03:33] 
+----------------------------------
+[20:03:33]   Bare Script
+
+[20:03:33] ----------------------------------
+
+[20:03:33] Number of vehicle models: 0
+[20:04:03] [connection] 127.0.0.1:54143 requests connection cookie.
+[20:04:04] [connection] incoming connection: 127.0.0.1:54143 id: 0
+[20:04:04] [join] DollynhO has joined the server (0:127.0.0.1)
+[20:04:21] [chat] [DollynhO]: 
+[22:29:31] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:09:58] 
+[22:09:58] Server Plugins
+[22:09:58] --------------
+[22:09:58]  Loading plugin: sscanf
+[22:09:59] 
+
+[22:09:59]  ===============================
+
+[22:09:59]       sscanf plugin loaded.     
+
+[22:09:59]          Version:  2.8.3        
+
+[22:09:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:09:59]  ===============================
+
+[22:09:59]   Loaded.
+[22:09:59]  Loading plugin: TDE
+[22:10:00] 
+TDEditor Plugin loaded, thank you for using.
+
+[22:10:00]   Loaded.
+[22:10:00]  Loaded 2 plugins.
+
+[22:10:00] 
+[22:10:00] Filterscripts
+[22:10:00] ---------------
+[22:10:00]   Loading filterscript 'TDE.amx'...
+[22:10:00]  
+[22:10:00]  
+[22:10:00]  
+[22:10:00]  
+[22:10:00] ___ __  __
+[22:10:00]  | |  \|_  _|.|_ _  _		
+[22:10:00]  | |__/|__(_|||_(_)|			
+[22:10:00]  
+[22:10:00] TDEditor V1.17 by adri1
+[22:10:00] TDEditor loaded
+[22:10:00]  
+[22:10:00]   Loading filterscript 'cameditor.amx'...
+[22:10:00] 
+--------------------------------------
+[22:10:00]  CamEditor by Drebin
+[22:10:00] --------------------------------------
+
+[22:10:00]   Loaded 2 filterscripts.
+
+[22:10:00] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[22:10:00] 
+----------------------------------
+[22:10:00]   Bare Script
+
+[22:10:00] ----------------------------------
+
+[22:10:00] Number of vehicle models: 0
+[22:11:09] [connection] 127.0.0.1:59154 requests connection cookie.
+[22:11:10] [connection] incoming connection: 127.0.0.1:59154 id: 0
+[22:11:11] [join] DollynhO has joined the server (0:127.0.0.1)
+[22:30:50] [chat] [DollynhO]: Q
+[22:30:51] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:09:53] 
+[15:09:53] Server Plugins
+[15:09:53] --------------
+[15:09:53]  Loading plugin: sscanf
+[15:09:53] 
+
+[15:09:53]  ===============================
+
+[15:09:53]       sscanf plugin loaded.     
+
+[15:09:53]          Version:  2.8.3        
+
+[15:09:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:09:53]  ===============================
+
+[15:09:53]   Loaded.
+[15:09:53]  Loading plugin: TDE
+[15:09:53] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:09:53]   Loaded.
+[15:09:53]  Loaded 2 plugins.
+
+[15:09:53] 
+[15:09:53] Filterscripts
+[15:09:53] ---------------
+[15:09:53]   Loading filterscript 'TDE.amx'...
+[15:09:53]  
+[15:09:53]  
+[15:09:53]  
+[15:09:53]  
+[15:09:53] ___ __  __
+[15:09:53]  | |  \|_  _|.|_ _  _		
+[15:09:53]  | |__/|__(_|||_(_)|			
+[15:09:53]  
+[15:09:53] TDEditor V1.17 by adri1
+[15:09:53] TDEditor loaded
+[15:09:53]  
+[15:09:53]   Loading filterscript 'cameditor.amx'...
+[15:09:53] 
+--------------------------------------
+[15:09:53]  CamEditor by Drebin
+[15:09:53] --------------------------------------
+
+[15:09:53]   Loaded 2 filterscripts.
+
+[15:09:53] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:09:53] 
+----------------------------------
+[15:09:53]   Bare Script
+
+[15:09:53] ----------------------------------
+
+[15:09:53] Number of vehicle models: 0
+[15:10:07] [connection] 127.0.0.1:52681 requests connection cookie.
+[15:10:08] [connection] incoming connection: 127.0.0.1:52681 id: 0
+[15:10:38] [connection] 127.0.0.1:52682 requests connection cookie.
+[15:10:39] [connection] incoming connection: 127.0.0.1:52682 id: 0
+[15:10:40] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:33:40] 
+[12:33:40] Server Plugins
+[12:33:40] --------------
+[12:33:40]  Loading plugin: sscanf
+[12:33:40] 
+
+[12:33:40]  ===============================
+
+[12:33:40]       sscanf plugin loaded.     
+
+[12:33:40]          Version:  2.8.3        
+
+[12:33:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:33:40]  ===============================
+
+[12:33:40]   Loaded.
+[12:33:40]  Loading plugin: TDE
+[12:33:40] 
+TDEditor Plugin loaded, thank you for using.
+
+[12:33:40]   Loaded.
+[12:33:40]  Loaded 2 plugins.
+
+[12:33:40] 
+[12:33:40] Filterscripts
+[12:33:40] ---------------
+[12:33:40]   Loading filterscript 'TDE.amx'...
+[12:33:40]  
+[12:33:40]  
+[12:33:40]  
+[12:33:40]  
+[12:33:40] ___ __  __
+[12:33:40]  | |  \|_  _|.|_ _  _		
+[12:33:40]  | |__/|__(_|||_(_)|			
+[12:33:40]  
+[12:33:40] TDEditor V1.17 by adri1
+[12:33:40] TDEditor loaded
+[12:33:40]  
+[12:33:40]   Loading filterscript 'cameditor.amx'...
+[12:33:40] 
+--------------------------------------
+[12:33:40]  CamEditor by Drebin
+[12:33:40] --------------------------------------
+
+[12:33:40]   Loaded 2 filterscripts.
+
+[12:33:40] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[12:33:40] 
+----------------------------------
+[12:33:40]   Bare Script
+
+[12:33:40] ----------------------------------
+
+[12:33:40] Number of vehicle models: 0
+[12:35:14] [connection] 127.0.0.1:53939 requests connection cookie.
+[12:35:15] [connection] incoming connection: 127.0.0.1:53939 id: 0
+[12:35:15] [join] DollaR$ has joined the server (0:127.0.0.1)
+[12:35:25] [chat] [DollaR$]: ;/
+[13:36:17] [part] DollaR$ has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:43:58] 
+[20:43:58] Server Plugins
+[20:43:58] --------------
+[20:43:58]  Loading plugin: sscanf
+[20:43:58] 
+
+[20:43:58]  ===============================
+
+[20:43:58]       sscanf plugin loaded.     
+
+[20:43:58]          Version:  2.8.3        
+
+[20:43:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:43:58]  ===============================
+
+[20:43:58]   Loaded.
+[20:43:58]  Loading plugin: TDE
+[20:43:58] 
+TDEditor Plugin loaded, thank you for using.
+
+[20:43:58]   Loaded.
+[20:43:58]  Loaded 2 plugins.
+
+[20:43:58] [connection] 127.0.0.1:59901 requests connection cookie.
+[20:43:58] 
+[20:43:58] Filterscripts
+[20:43:58] ---------------
+[20:43:58]   Loading filterscript 'TDE.amx'...
+[20:43:58]  
+[20:43:58]  
+[20:43:58]  
+[20:43:58]  
+[20:43:58] ___ __  __
+[20:43:58]  | |  \|_  _|.|_ _  _		
+[20:43:58]  | |__/|__(_|||_(_)|			
+[20:43:58]  
+[20:43:58] TDEditor V1.17 by adri1
+[20:43:58] TDEditor loaded
+[20:43:58]  
+[20:43:58]   Loading filterscript 'cameditor.amx'...
+[20:43:58] 
+--------------------------------------
+[20:43:58]  CamEditor by Drebin
+[20:43:58] --------------------------------------
+
+[20:43:58]   Loaded 2 filterscripts.
+
+[20:43:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:43:58] 
+----------------------------------
+[20:43:58]   Bare Script
+
+[20:43:58] ----------------------------------
+
+[20:43:58] Number of vehicle models: 0
+[20:43:59] [connection] incoming connection: 127.0.0.1:59901 id: 0
+[20:44:00] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:30:11] 
+[17:30:11] Server Plugins
+[17:30:11] --------------
+[17:30:11]  Loading plugin: sscanf
+[17:30:11] 
+
+[17:30:11]  ===============================
+
+[17:30:11]       sscanf plugin loaded.     
+
+[17:30:11]          Version:  2.8.3        
+
+[17:30:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:30:11]  ===============================
+
+[17:30:11]   Loaded.
+[17:30:11]  Loading plugin: TDE
+[17:30:11] 
+TDEditor Plugin loaded, thank you for using.
+
+[17:30:11]   Loaded.
+[17:30:11]  Loaded 2 plugins.
+
+[17:30:11] 
+[17:30:11] Filterscripts
+[17:30:11] ---------------
+[17:30:11]   Loading filterscript 'TDE.amx'...
+[17:30:11]  
+[17:30:11]  
+[17:30:11]  
+[17:30:11]  
+[17:30:11] ___ __  __
+[17:30:11]  | |  \|_  _|.|_ _  _		
+[17:30:11]  | |__/|__(_|||_(_)|			
+[17:30:11]  
+[17:30:11] TDEditor V1.17 by adri1
+[17:30:11] TDEditor loaded
+[17:30:11]  
+[17:30:11]   Loading filterscript 'cameditor.amx'...
+[17:30:11] 
+--------------------------------------
+[17:30:11]  CamEditor by Drebin
+[17:30:11] --------------------------------------
+
+[17:30:11]   Loaded 2 filterscripts.
+
+[17:30:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:30:11] 
+----------------------------------
+[17:30:11]   Bare Script
+
+[17:30:11] ----------------------------------
+
+[17:30:11] Number of vehicle models: 0
+[17:31:35] [connection] 127.0.0.1:51115 requests connection cookie.
+[17:31:36] [connection] incoming connection: 127.0.0.1:51115 id: 0
+[17:31:36] [join] DollynhO has joined the server (0:127.0.0.1)
+[18:38:38] [part] DollynhO has left the server (0:1)
+[19:01:53] [connection] 127.0.0.1:50947 requests connection cookie.
+[19:01:54] [connection] incoming connection: 127.0.0.1:50947 id: 0
+[19:01:54] [join] DollynhO has joined the server (0:127.0.0.1)
+[19:38:09] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:38:06] 
+[15:38:06] Server Plugins
+[15:38:06] --------------
+[15:38:06]  Loading plugin: sscanf
+[15:38:06] 
+
+[15:38:06]  ===============================
+
+[15:38:06]       sscanf plugin loaded.     
+
+[15:38:06]          Version:  2.8.3        
+
+[15:38:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:38:06]  ===============================
+
+[15:38:06]   Loaded.
+[15:38:06]  Loading plugin: TDE
+[15:38:06] 
+TDEditor Plugin loaded, thank you for using.
+
+[15:38:06]   Loaded.
+[15:38:06]  Loaded 2 plugins.
+
+[15:38:06] 
+[15:38:06] Filterscripts
+[15:38:06] ---------------
+[15:38:06]   Loading filterscript 'TDE.amx'...
+[15:38:06]  
+[15:38:06]  
+[15:38:06]  
+[15:38:06]  
+[15:38:06] ___ __  __
+[15:38:06]  | |  \|_  _|.|_ _  _		
+[15:38:06]  | |__/|__(_|||_(_)|			
+[15:38:06]  
+[15:38:06] TDEditor V1.17 by adri1
+[15:38:06] TDEditor loaded
+[15:38:06]  
+[15:38:06]   Loading filterscript 'cameditor.amx'...
+[15:38:06] 
+--------------------------------------
+[15:38:06]  CamEditor by Drebin
+[15:38:06] --------------------------------------
+
+[15:38:06]   Loaded 2 filterscripts.
+
+[15:38:06] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[15:38:06] 
+----------------------------------
+[15:38:06]   Bare Script
+
+[15:38:06] ----------------------------------
+
+[15:38:06] Number of vehicle models: 0
+[15:38:22] [connection] 127.0.0.1:51728 requests connection cookie.
+[15:38:23] [connection] incoming connection: 127.0.0.1:51728 id: 0
+[15:38:23] [join] DollynhO has joined the server (0:127.0.0.1)
+[16:58:36] [part] DollynhO has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:39:39] 
+[14:39:39] Server Plugins
+[14:39:39] --------------
+[14:39:39]  Loading plugin: sscanf
+[14:39:39] 
+
+[14:39:39]  ===============================
+
+[14:39:39]       sscanf plugin loaded.     
+
+[14:39:39]          Version:  2.8.3        
+
+[14:39:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:39:39]  ===============================
+
+[14:39:39]   Loaded.
+[14:39:39]  Loading plugin: TDE
+[14:39:39] 
+TDEditor Plugin loaded, thank you for using.
+
+[14:39:39]   Loaded.
+[14:39:39]  Loaded 2 plugins.
+
+[14:39:39] 
+[14:39:39] Filterscripts
+[14:39:39] ---------------
+[14:39:39]   Loading filterscript 'TDE.amx'...
+[14:39:39]  
+[14:39:39]  
+[14:39:39]  
+[14:39:39]  
+[14:39:39] ___ __  __
+[14:39:39]  | |  \|_  _|.|_ _  _		
+[14:39:39]  | |__/|__(_|||_(_)|			
+[14:39:39]  
+[14:39:39] TDEditor V1.17 by adri1
+[14:39:39] TDEditor loaded
+[14:39:39]  
+[14:39:39]   Loading filterscript 'cameditor.amx'...
+[14:39:39] 
+--------------------------------------
+[14:39:39]  CamEditor by Drebin
+[14:39:39] --------------------------------------
+
+[14:39:39]   Loaded 2 filterscripts.
+
+[14:39:39] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:39:39] 
+----------------------------------
+[14:39:39]   Bare Script
+
+[14:39:39] ----------------------------------
+
+[14:39:39] Number of vehicle models: 0
+[14:40:17] [connection] 127.0.0.1:61776 requests connection cookie.
+[14:40:18] [connection] incoming connection: 127.0.0.1:61776 id: 0
+[14:40:18] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:22:07] 
+[13:22:07] Server Plugins
+[13:22:07] --------------
+[13:22:07]  Loading plugin: sscanf
+[13:22:07] 
+
+[13:22:07]  ===============================
+
+[13:22:07]       sscanf plugin loaded.     
+
+[13:22:07]          Version:  2.8.3        
+
+[13:22:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:22:07]  ===============================
+
+[13:22:07]   Loaded.
+[13:22:07]  Loading plugin: TDE
+[13:22:07] 
+TDEditor Plugin loaded, thank you for using.
+
+[13:22:07]   Loaded.
+[13:22:07]  Loaded 2 plugins.
+
+[13:22:07] 
+[13:22:07] Filterscripts
+[13:22:07] ---------------
+[13:22:07]   Loading filterscript 'TDE.amx'...
+[13:22:07]  
+[13:22:07]  
+[13:22:07]  
+[13:22:07]  
+[13:22:07] ___ __  __
+[13:22:07]  | |  \|_  _|.|_ _  _		
+[13:22:07]  | |__/|__(_|||_(_)|			
+[13:22:07]  
+[13:22:07] TDEditor V1.17 by adri1
+[13:22:07] TDEditor loaded
+[13:22:07]  
+[13:22:07]   Loading filterscript 'cameditor.amx'...
+[13:22:07] 
+--------------------------------------
+[13:22:07]  CamEditor by Drebin
+[13:22:07] --------------------------------------
+
+[13:22:07]   Loaded 2 filterscripts.
+
+[13:22:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:22:07] 
+----------------------------------
+[13:22:07]   Bare Script
+
+[13:22:07] ----------------------------------
+
+[13:22:07] Number of vehicle models: 0
+[13:22:15] [connection] 127.0.0.1:51651 requests connection cookie.
+[13:22:16] [connection] incoming connection: 127.0.0.1:51651 id: 0
+[13:22:16] [join] DollynhO has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:42:14] 
+[13:42:14] Server Plugins
+[13:42:14] --------------
+[13:42:14]  Loading plugin: sscanf
+[13:42:14] 
+
+[13:42:14]  ===============================
+
+[13:42:14]       sscanf plugin loaded.     
+
+[13:42:14]          Version:  2.8.3        
+
+[13:42:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:42:14]  ===============================
+
+[13:42:14]   Loaded.
+[13:42:14]  Loading plugin: TDE
+[13:42:14] 
+TDEditor Plugin loaded, thank you for using.
+
+[13:42:14]   Loaded.
+[13:42:14]  Loaded 2 plugins.
+
+[13:42:14] 
+[13:42:14] Filterscripts
+[13:42:14] ---------------
+[13:42:14]   Loading filterscript 'TDE.amx'...
+[13:42:14]  
+[13:42:14]  
+[13:42:14]  
+[13:42:14]  
+[13:42:14] ___ __  __
+[13:42:14]  | |  \|_  _|.|_ _  _		
+[13:42:14]  | |__/|__(_|||_(_)|			
+[13:42:14]  
+[13:42:14] TDEditor V1.17 by adri1
+[13:42:14] TDEditor loaded
+[13:42:14]  
+[13:42:14]   Loading filterscript 'cameditor.amx'...
+[13:42:14] 
+--------------------------------------
+[13:42:14]  CamEditor by Drebin
+[13:42:14] --------------------------------------
+
+[13:42:14]   Loaded 2 filterscripts.
+
+[13:42:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:42:14] 
+----------------------------------
+[13:42:14]   Bare Script
+
+[13:42:14] ----------------------------------
+
+[13:42:14] Number of vehicle models: 0
+[13:42:20] [connection] 127.0.0.1:61409 requests connection cookie.
+[13:42:21] [connection] incoming connection: 127.0.0.1:61409 id: 0
+[13:42:21] [join] DollynhO has joined the server (0:127.0.0.1)
